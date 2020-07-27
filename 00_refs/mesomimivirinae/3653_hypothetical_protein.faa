@@ -1,0 +1,12 @@
+>ID:QDY52040.1 |[Mimiviridae sp. ChoanoV1]||hypothetical protein|381|MK250087(86536):15002-15382:1 ^^ Mimiviridae sp. ChoanoV1 genomic sequence.|neighbours:ID:QDY52039.1(1),ID:QDY52041.1(1)|neighbour_genes:hypothetical protein,ATPase family protei..| | aligned:2-123 (126)
+MIKISDLKENAELIIVIFFVCLSMGGYYFYIYREYSKTKNTFEQKRHTGICPDYWSITEDSNPDSEKPLIKCRNDKKIGRCNYTEPQDFSSELYKDDNAKCKWSKYCNAPWEGIDNLCSDLTKQQL
+>ID:ALH22986.1 |[Chrysochromulina ericina virus]||hypothetical protein|345|KT820662(473558):75258-75602:1 ^^ Chrysochromulina ericina virus isolate CeV-01B, complete genome.|neighbours:ID:ALH22985.1(-1),ID:ALH22987.1(1)|neighbour_genes:hypothetical protein,hypothetical protein| | aligned:1-109 (114)
+MQFQQIVVMIAAIILIGLLTWIGYGIYQSEHNAKFPPVSSDCPDYWTANKNGCVNIKHLGSCNTGKDNTMSFNSPPFIGKDAICAKSRWARRCGVTWNGVTNAGAQLQKVCGIE
+>ID:ADX05887.1 |[Organic Lake phycodnavirus 1]||hypothetical protein|318|HQ704802(344723):91626-91943:-1 ^^ Organic Lake phycodnavirus 1 genomic sequence.|neighbours:ID:ADX05886.1(-1),ID:ADX05888.1(1)|neighbour_genes:hypothetical protein,hypothetical protein| | aligned:1-105 (105)
+MEQTKTIFVSMIVILLATLGAVAYILKNSKKTYVYPPHINDCPDFYQKNNSGYCYDKYEIGPYSSEEICKRVLFKAEKTNCDKKKWATDCKVSWDGITNNDGLCI
+>ID:ADX06305.1 |[Organic Lake phycodnavirus 2]||hypothetical protein|327|HQ704803(282077):109304-109630:-1 ^^ Organic Lake phycodnavirus 2 genomic sequence.|neighbours:ID:ADX06304.1(-1),ID:ADX06306.1(1)|neighbour_genes:hypothetical protein,hypothetical protein| | aligned:1-108 (108)
+MEKTIFISTIVVLIVTLSIVAYILKITKKKYLYPPHINQCPDYYQLNSFGDCYDKNEVIHKNDDQCYLENFNKTLYQNNTIGLCKKKQWAINCNVSWDGITNNSELCI
+>ID:AGM15361.1 |[Phaeocystis globosa virus]|16T|hypothetical protein|375|KC662249(459984):58059-58433:-1 ^^ Phaeocystis globosa virus strain 16T, complete genome.|neighbours:ID:AGM15360.1(1),ID:AGM15362.1(1)|neighbour_genes:TATA-box binding pro..,hypothetical protein| | aligned:1-120 (124)
+MNQFQKVILISSSIILIVSLIFLAYFLTKSLYADSYPAVISDCPDYWDVTRNDAGLQICNNTSTVNEGRGDVPEGECSAYPTDQFLTGGDGDDAVLCEKYRWAKKCNITWDGVTNNNRACDLGY
+>ID:BAT22014.1 |[Yellowstone lake mimivirus]||hypothetical protein|354|LC015646(73689):61596-61949:-1 ^^ Yellowstone lake mimivirus DNA, complete genome, isolate: 1.|neighbours:ID:BAT22013.1(1),ID:BAT22015.1(1)|neighbour_genes:hypothetical protein,hypothetical protein| | aligned:1-108 (117)
+MDIGSFQKNVLIIALVILIVTLLFIGITIKQTKNEQWPPTIGDCPDYWIDLSGNGGQCVNVKDLGTCKTTSQGHYTQDFTTPAFTGSNGLCSKYNWANNCGVSWDGITYGVPNPCNV

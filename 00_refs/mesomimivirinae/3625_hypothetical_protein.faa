@@ -1,0 +1,8 @@
+>ID:ALH23010.1 |[Chrysochromulina ericina virus]||hypothetical protein|228|KT820662(473558):97048-97275:-1 ^^ Chrysochromulina ericina virus isolate CeV-01B, complete genome.|neighbours:ID:ALH23009.1(1),ID:ALH23011.1(-1)|neighbour_genes:hypothetical protein,hypothetical protein| | aligned:1-74 (75)
+MYKPFIKKHIIGTTISIFLIIYIFFMTIKPAFLFTKEGSIRHFGLGKRNSTIIPIWFFVIILAIMIYMTILCYLR
+>ID:AGM15485.1 |[Phaeocystis globosa virus]|16T|hypothetical protein|246|KC662249(459984):192021-192266:-1 ^^ Phaeocystis globosa virus strain 16T, complete genome.|neighbours:ID:AGM15484.1(1),ID:AGM15486.1(-1)|neighbour_genes:hypothetical protein,hypothetical protein| | aligned:1-81 (81)
+MFNSFVKNNIPLVSIILLSAIFMFIILTKPSLMFDKNGKPRQFGLGYKNKTVCPLWLAVIVSGIVCYLAVLTFTNYKRLMY
+>ID:BAT21986.1 |[Yellowstone lake mimivirus]||hypothetical protein|249|LC015646(73689):43360-43608:1 ^^ Yellowstone lake mimivirus DNA, complete genome, isolate: 1.|neighbours:ID:BAT21985.1(1),ID:BAT21987.1(-1)|neighbour_genes:hypothetical protein,hypothetical protein| | aligned:1-82 (82)
+MSSREFMKENITLISIILFVCIFLIIQFTKPAFLFKSDGSLRVFGIGYKTKTILPIWLFSIILGILCYLLVMCYITYPKILF
+>ID:QFG75146.1 |[Megaviridae environmental sample]||hypothetical protein|264|MN448299(67423):44783-45046:-1 ^^ Megaviridae environmental sample isolate oPacV-421 clone oPacV-421_c10 genomic sequence.|neighbours:ID:QFG75145.1(1),ID:QFG75147.1(-1)|neighbour_genes:hypothetical protein,hypothetical protein| | aligned:1-86 (87)
+MLASTFIKKNYLFFTILIFLIFYGVVLTIKPSFLYKKDGVLRDFGLGYKHKTIIPLWLVSMSLAVFSYLFILLYLTVCSNSHKLEYI

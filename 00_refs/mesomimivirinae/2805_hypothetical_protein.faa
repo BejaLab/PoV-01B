@@ -1,0 +1,4 @@
+>ID:AGM15641.1 |[Phaeocystis globosa virus]|16T|hypothetical protein|336|KC662249(459984):375168-375503:-1 ^^ Phaeocystis globosa virus strain 16T, complete genome.|neighbours:ID:AGM15640.1(-1),ID:AGM15642.1(1)|neighbour_genes:hypothetical protein,hypothetical protein| | aligned:3-90 (111)
+MLLSSQDYKDILNHYQIEYGDSNKKTLKKMTEKIIAEKLCRCIKAIPNKGRPESRPIGICRWSVLQKKNLEIHKFTCKKKKQLKPRHPTHGNREKLYKTVNGKLVLTAKKN
+>ID:QFG75035.1 |[Megaviridae environmental sample]||hypothetical protein|288|MN448297(67791):11340-11627:1 ^^ Megaviridae environmental sample isolate oPacV-421 clone oPacV-421_c8 genomic sequence.|neighbours:ID:QFG75034.1(-1),ID:QFG75036.1(-1)|neighbour_genes:hypothetical protein,hypothetical protein| | aligned:5-90 (95)
+MVKRLTLKDINKLLHYYKINSKRLTKRQKLTKLHNILAKKLCKCINKVNKNKTISTPICRNSVLTKKKINIYRFSCKKRPKLLLPKNKTHKVFKL

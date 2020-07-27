@@ -1,0 +1,6 @@
+>ID:ADX06066.1 |[Organic Lake phycodnavirus 1]||hypothetical protein|162|HQ704802(344723):259090-259251:1 ^^ Organic Lake phycodnavirus 1 genomic sequence.|neighbours:ID:ADX06091.1(-1),ID:ADX06065.1(1)|neighbour_genes:putative disulfide i..,putative Erv-family ..| | aligned:1-53 (53)
+MIVKVFNTNTYEVVKSINETHYYREIMRLKLNILNLLYPTEKRIQHKINFFSS
+>ID:ADX06092.1 |[Organic Lake phycodnavirus 1]||hypothetical protein|162|HQ704802(344723):265755-265916:1 ^^ Organic Lake phycodnavirus 1 genomic sequence.|neighbours:ID:ADX06067.1(-1),ID:ADX06093.1(1)|neighbour_genes:putative protein dis..,putative Erv-family ..| | aligned:1-53 (53)
+MIVKVFNTNTYEVVKSINETHYYREIMRLKLNILNLLYPTEKRIQHKINFFSS
+>ID:ADX06394.1 |[Organic Lake phycodnavirus 2]||hypothetical protein|162|HQ704803(282077):276072-276233:1 ^^ Organic Lake phycodnavirus 2 genomic sequence.|neighbours:ID:ADX06395.1(-1),ID:ADX06393.1(1)|neighbour_genes:hypothetical protein,putative Erv family ..| | aligned:1-53 (53)
+MIVKLYNDNKYVLVKSFNETYYYREIMRLKLNHKHQTGQMKQLIQHKINFFSS

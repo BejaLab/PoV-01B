@@ -1,0 +1,6 @@
+>ID:ALH23263.1 |[Chrysochromulina ericina virus]||hypothetical protein|360|KT820662(473558):335650-336009:1 ^^ Chrysochromulina ericina virus isolate CeV-01B, complete genome.|neighbours:ID:ALH23262.1(1),ID:ALH23264.1(1)|neighbour_genes:hypothetical protein,hypothetical protein| | aligned:1-114 (119)
+MSFENNIRKWIQSDNAIKEKYLAIKQLKIEKEQYNENILEYMNENNLENATIKIGDGKLRLVESNIPQALTFKFICEALCEYFQDDEDHEEVVKEIITFMKEKRNIKTNREIKRYGICS
+>ID:AGM15566.1 |[Phaeocystis globosa virus]|16T|hypothetical protein|348|KC662249(459984):290237-290584:-1 ^^ Phaeocystis globosa virus strain 16T, complete genome.|neighbours:ID:AGM15565.1(-1),ID:AGM15567.1(-1)|neighbour_genes:hypothetical protein,hypothetical protein| | aligned:1-111 (115)
+MSLKEDIKRWVVLDNQHKKANEQVKQIRDMKNGLGNSIMSDLAADNITNPVIKISDGKLRFVETRQANVIGYKFLLECFNEYLEDDNKAVELLEFIKEKRTYTNVSSIKRIYNKE
+>ID:QFG74839.1 |[Megaviridae environmental sample]||hypothetical protein|345|MN448294(69454):52340-52684:-1 ^^ Megaviridae environmental sample isolate oPacV-421 clone oPacV-421_c5 genomic sequence.|neighbours:ID:QFG74838.1(-1),ID:QFG74840.1(-1)|neighbour_genes:hypothetical protein,hypothetical protein| | aligned:1-111 (114)
+MSLNENIQNWVRYSNKIKELQQELNSLREKKNIEEHTIISIAESKQLLNNNIKVECGIMKFCNTNKYTPLTLQYIHSCLANIIEDSEQAELILNYIKENRQVSRKLNIKLVNSI

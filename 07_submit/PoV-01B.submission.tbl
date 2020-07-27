@@ -1,0 +1,4179 @@
+>Features POV01B_1
+176	622	gene
+			locus_tag	HWQ62_00001
+			protein_id	HWQ62_00001
+176	622	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00001
+			product	hypothetical protein
+			protein_id	HWQ62_00001
+942	1109	gene
+			locus_tag	HWQ62_00002
+			protein_id	HWQ62_00002
+942	1109	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00002
+			product	hypothetical protein
+			protein_id	HWQ62_00002
+2619	1156	gene
+			locus_tag	HWQ62_00003
+			protein_id	HWQ62_00003
+2619	1156	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00003
+			product	hypothetical protein
+			protein_id	HWQ62_00003
+2629	2964	gene
+			locus_tag	HWQ62_00004
+			protein_id	HWQ62_00004
+2629	2964	CDS
+			codon_start	1
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	HWQ62_00004
+			product	hypothetical protein
+			protein_id	HWQ62_00004
+2967	3890	gene
+			locus_tag	HWQ62_00005
+			protein_id	HWQ62_00005
+2967	3890	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00005
+			product	hypothetical protein
+			protein_id	HWQ62_00005
+3859	6681	gene
+			locus_tag	HWQ62_00006
+			protein_id	HWQ62_00006
+3859	6681	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00006
+			product	hypothetical protein
+			protein_id	HWQ62_00006
+6727	6873	gene
+			locus_tag	HWQ62_00007
+			protein_id	HWQ62_00007
+6727	6873	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00007
+			product	hypothetical protein
+			protein_id	HWQ62_00007
+6945	22649	gene
+			locus_tag	HWQ62_00008
+			protein_id	HWQ62_00008
+6945	22649	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00008
+			product	hypothetical protein
+			protein_id	HWQ62_00008
+22883	23248	gene
+			locus_tag	HWQ62_00009
+			protein_id	HWQ62_00009
+22883	23248	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00009
+			product	hypothetical protein
+			protein_id	HWQ62_00009
+23446	23643	gene
+			locus_tag	HWQ62_00010
+			protein_id	HWQ62_00010
+23446	23643	CDS
+			codon_start	1
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	HWQ62_00010
+			product	hypothetical protein
+			protein_id	HWQ62_00010
+23711	24082	gene
+			locus_tag	HWQ62_00011
+			protein_id	HWQ62_00011
+23711	24082	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00011
+			product	hypothetical protein
+			protein_id	HWQ62_00011
+24194	25924	gene
+			locus_tag	HWQ62_00012
+			protein_id	HWQ62_00012
+24194	25924	CDS
+			codon_start	1
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	HWQ62_00012
+			product	hypothetical protein
+			protein_id	HWQ62_00012
+24229	24825	gene
+			locus_tag	HWQ62_00013
+			protein_id	HWQ62_00013
+24229	24825	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00013
+			product	hypothetical protein
+			protein_id	HWQ62_00013
+26126	26557	gene
+			locus_tag	HWQ62_00014
+			protein_id	HWQ62_00014
+26126	26557	CDS
+			codon_start	1
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	HWQ62_00014
+			product	hypothetical protein
+			protein_id	HWQ62_00014
+26870	26646	gene
+			locus_tag	HWQ62_00015
+			protein_id	HWQ62_00015
+26870	26646	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00015
+			product	hypothetical protein
+			protein_id	HWQ62_00015
+27682	26882	gene
+			locus_tag	HWQ62_00016
+			protein_id	HWQ62_00016
+27682	26882	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00016
+			product	hypothetical protein
+			protein_id	HWQ62_00016
+27762	28049	gene
+			locus_tag	HWQ62_00017
+			protein_id	HWQ62_00017
+27762	28049	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00017
+			product	hypothetical protein
+			protein_id	HWQ62_00017
+29313	28060	gene
+			locus_tag	HWQ62_00018
+			protein_id	HWQ62_00018
+29313	28060	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00018
+			product	hypothetical protein
+			protein_id	HWQ62_00018
+29770	29387	gene
+			locus_tag	HWQ62_00019
+			protein_id	HWQ62_00019
+29770	29387	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00019
+			product	hypothetical protein
+			protein_id	HWQ62_00019
+29399	30568	gene
+			locus_tag	HWQ62_00020
+			protein_id	HWQ62_00020
+29399	30568	CDS
+			codon_start	1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P30328
+			locus_tag	HWQ62_00020
+			product	Major capsid protein
+			protein_id	HWQ62_00020
+31293	30748	gene
+			locus_tag	HWQ62_00021
+			protein_id	HWQ62_00021
+31293	30748	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00021
+			product	hypothetical protein
+			protein_id	HWQ62_00021
+30760	31950	gene
+			locus_tag	HWQ62_00022
+			protein_id	HWQ62_00022
+30760	31950	CDS
+			codon_start	1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P30328
+			locus_tag	HWQ62_00022
+			product	Major capsid protein
+			protein_id	HWQ62_00022
+32207	32935	gene
+			locus_tag	HWQ62_00023
+			protein_id	HWQ62_00023
+32207	32935	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00023
+			product	hypothetical protein
+			protein_id	HWQ62_00023
+33110	33514	gene
+			locus_tag	HWQ62_00024
+			protein_id	HWQ62_00024
+33110	33514	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00024
+			product	hypothetical protein
+			protein_id	HWQ62_00024
+34082	33516	gene
+			locus_tag	HWQ62_00025
+			protein_id	HWQ62_00025
+34082	33516	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00025
+			product	hypothetical protein
+			protein_id	HWQ62_00025
+34177	34250	gene
+			locus_tag	HWQ62_00026
+34177	34250	tRNA
+			inference	ab initio prediction:tRNAscan-SE
+			locus_tag	HWQ62_00026
+			note	tRNA-Arg(TCT)
+			product	tRNA-Arg
+34901	34290	gene
+			locus_tag	HWQ62_00027
+			protein_id	HWQ62_00027
+34901	34290	CDS
+			codon_start	1
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	HWQ62_00027
+			product	hypothetical protein
+			protein_id	HWQ62_00027
+35217	34975	gene
+			locus_tag	HWQ62_00028
+			protein_id	HWQ62_00028
+35217	34975	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00028
+			product	hypothetical protein
+			protein_id	HWQ62_00028
+35292	36107	gene
+			locus_tag	HWQ62_00029
+			protein_id	HWQ62_00029
+35292	36107	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00029
+			product	hypothetical protein
+			protein_id	HWQ62_00029
+36461	36114	gene
+			locus_tag	HWQ62_00030
+			protein_id	HWQ62_00030
+36461	36114	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00030
+			product	hypothetical protein
+			protein_id	HWQ62_00030
+36783	36469	gene
+			locus_tag	HWQ62_00031
+			protein_id	HWQ62_00031
+36783	36469	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00031
+			product	hypothetical protein
+			protein_id	HWQ62_00031
+37102	39285	gene
+			locus_tag	HWQ62_00032
+			protein_id	HWQ62_00032
+37102	39285	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00032
+			product	DNA topoisomerase 1 type prokaryotic
+			protein_id	HWQ62_00032
+39320	39712	gene
+			locus_tag	HWQ62_00033
+			protein_id	HWQ62_00033
+39320	39712	CDS
+			codon_start	1
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	HWQ62_00033
+			product	hypothetical protein
+			protein_id	HWQ62_00033
+40047	39709	gene
+			locus_tag	HWQ62_00034
+			protein_id	HWQ62_00034
+40047	39709	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00034
+			product	hypothetical protein
+			protein_id	HWQ62_00034
+40087	40350	gene
+			locus_tag	HWQ62_00035
+			protein_id	HWQ62_00035
+40087	40350	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00035
+			product	hypothetical protein
+			protein_id	HWQ62_00035
+41436	40342	gene
+			locus_tag	HWQ62_00036
+			protein_id	HWQ62_00036
+41436	40342	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00036
+			product	hypothetical protein
+			protein_id	HWQ62_00036
+44288	41451	gene
+			locus_tag	HWQ62_00037
+			protein_id	HWQ62_00037
+44288	41451	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00037
+			product	putative mRNA-capping enzyme
+			protein_id	HWQ62_00037
+45028	44345	gene
+			locus_tag	HWQ62_00038
+			protein_id	HWQ62_00038
+45028	44345	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00038
+			product	hypothetical protein
+			protein_id	HWQ62_00038
+45552	45028	gene
+			locus_tag	HWQ62_00039
+			protein_id	HWQ62_00039
+45552	45028	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00039
+			product	hypothetical protein
+			protein_id	HWQ62_00039
+46364	45603	gene
+			locus_tag	HWQ62_00040
+			protein_id	HWQ62_00040
+46364	45603	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00040
+			product	hypothetical protein
+			protein_id	HWQ62_00040
+50402	46407	gene
+			locus_tag	HWQ62_00041
+			protein_id	HWQ62_00041
+50402	46407	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00041
+			product	hypothetical protein
+			protein_id	HWQ62_00041
+51246	50416	gene
+			locus_tag	HWQ62_00042
+			protein_id	HWQ62_00042
+51246	50416	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00042
+			product	mRNA-decapping protein g5R
+			protein_id	HWQ62_00042
+51324	51818	gene
+			locus_tag	HWQ62_00043
+			protein_id	HWQ62_00043
+51324	51818	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00043
+			product	putative FAD-linked sulfhydryl oxidase R596
+			protein_id	HWQ62_00043
+52742	51771	gene
+			locus_tag	HWQ62_00044
+			protein_id	HWQ62_00044
+52742	51771	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00044
+			product	hypothetical protein
+			protein_id	HWQ62_00044
+52789	53571	gene
+			locus_tag	HWQ62_00045
+			protein_id	HWQ62_00045
+52789	53571	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00045
+			product	hypothetical protein
+			protein_id	HWQ62_00045
+55029	53557	gene
+			locus_tag	HWQ62_00046
+			protein_id	HWQ62_00046
+55029	53557	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00046
+			product	hypothetical protein
+			protein_id	HWQ62_00046
+55082	57193	gene
+			locus_tag	HWQ62_00047
+			protein_id	HWQ62_00047
+55082	57193	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00047
+			product	hypothetical protein
+			protein_id	HWQ62_00047
+57250	58941	gene
+			locus_tag	HWQ62_00048
+			protein_id	HWQ62_00048
+57250	58941	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00048
+			product	hypothetical protein
+			protein_id	HWQ62_00048
+59554	58949	gene
+			locus_tag	HWQ62_00049
+			protein_id	HWQ62_00049
+59554	58949	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00049
+			product	hypothetical protein
+			protein_id	HWQ62_00049
+60105	59593	gene
+			locus_tag	HWQ62_00050
+			protein_id	HWQ62_00050
+60105	59593	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00050
+			product	hypothetical protein
+			protein_id	HWQ62_00050
+60340	60164	gene
+			locus_tag	HWQ62_00051
+			protein_id	HWQ62_00051
+60340	60164	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00051
+			product	hypothetical protein
+			protein_id	HWQ62_00051
+60954	60409	gene
+			locus_tag	HWQ62_00052
+			protein_id	HWQ62_00052
+60954	60409	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00052
+			product	hypothetical protein
+			protein_id	HWQ62_00052
+62049	60958	gene
+			locus_tag	HWQ62_00053
+			protein_id	HWQ62_00053
+62049	60958	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00053
+			product	hypothetical protein
+			protein_id	HWQ62_00053
+62067	62864	gene
+			locus_tag	HWQ62_00054
+			protein_id	HWQ62_00054
+62067	62864	CDS
+			codon_start	1
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	HWQ62_00054
+			product	hypothetical protein
+			protein_id	HWQ62_00054
+62866	63354	gene
+			locus_tag	HWQ62_00055
+			protein_id	HWQ62_00055
+62866	63354	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00055
+			product	hypothetical protein
+			protein_id	HWQ62_00055
+63725	63351	gene
+			locus_tag	HWQ62_00056
+			protein_id	HWQ62_00056
+63725	63351	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00056
+			product	hypothetical protein
+			protein_id	HWQ62_00056
+65131	63758	gene
+			locus_tag	HWQ62_00057
+			protein_id	HWQ62_00057
+65131	63758	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00057
+			product	hypothetical protein
+			protein_id	HWQ62_00057
+65221	65940	gene
+			locus_tag	HWQ62_00058
+			protein_id	HWQ62_00058
+65221	65940	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00058
+			product	hypothetical protein
+			protein_id	HWQ62_00058
+66996	66139	gene
+			locus_tag	HWQ62_00059
+			protein_id	HWQ62_00059
+66996	66139	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00059
+			product	hypothetical protein
+			protein_id	HWQ62_00059
+67583	67041	gene
+			locus_tag	HWQ62_00060
+			protein_id	HWQ62_00060
+67583	67041	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00060
+			product	hypothetical protein
+			protein_id	HWQ62_00060
+67803	67630	gene
+			locus_tag	HWQ62_00061
+			protein_id	HWQ62_00061
+67803	67630	CDS
+			codon_start	1
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	HWQ62_00061
+			product	hypothetical protein
+			protein_id	HWQ62_00061
+69159	67816	gene
+			locus_tag	HWQ62_00062
+			protein_id	HWQ62_00062
+69159	67816	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00062
+			product	Major capsid protein
+			protein_id	HWQ62_00062
+69228	71045	gene
+			locus_tag	HWQ62_00063
+			protein_id	HWQ62_00063
+69228	71045	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00063
+			product	hypothetical protein
+			protein_id	HWQ62_00063
+71054	73009	gene
+			locus_tag	HWQ62_00064
+			protein_id	HWQ62_00064
+71054	73009	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00064
+			product	hypothetical protein
+			protein_id	HWQ62_00064
+73036	78759	gene
+			locus_tag	HWQ62_00065
+			protein_id	HWQ62_00065
+73036	78759	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00065
+			product	hypothetical protein
+			protein_id	HWQ62_00065
+78760	79686	gene
+			locus_tag	HWQ62_00066
+			protein_id	HWQ62_00066
+78760	79686	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00066
+			product	hypothetical protein
+			protein_id	HWQ62_00066
+80621	79677	gene
+			locus_tag	HWQ62_00067
+			protein_id	HWQ62_00067
+80621	79677	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00067
+			product	hypothetical protein
+			protein_id	HWQ62_00067
+81545	80640	gene
+			locus_tag	HWQ62_00068
+			protein_id	HWQ62_00068
+81545	80640	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00068
+			product	hypothetical protein
+			protein_id	HWQ62_00068
+82735	81617	gene
+			locus_tag	HWQ62_00069
+			protein_id	HWQ62_00069
+82735	81617	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00069
+			product	hypothetical protein
+			protein_id	HWQ62_00069
+83769	82783	gene
+			locus_tag	HWQ62_00070
+			protein_id	HWQ62_00070
+83769	82783	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00070
+			product	hypothetical protein
+			protein_id	HWQ62_00070
+84288	83803	gene
+			locus_tag	HWQ62_00071
+			protein_id	HWQ62_00071
+84288	83803	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00071
+			product	hypothetical protein
+			protein_id	HWQ62_00071
+84321	84872	gene
+			locus_tag	HWQ62_00072
+			protein_id	HWQ62_00072
+84321	84872	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00072
+			product	hypothetical protein
+			protein_id	HWQ62_00072
+84921	88223	gene
+			locus_tag	HWQ62_00073
+			protein_id	HWQ62_00073
+84921	88223	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00073
+			product	DNA topoisomerase 2
+			protein_id	HWQ62_00073
+88280	89119	gene
+			locus_tag	HWQ62_00074
+			protein_id	HWQ62_00074
+88280	89119	CDS
+			codon_start	1
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	HWQ62_00074
+			product	hypothetical protein
+			protein_id	HWQ62_00074
+89491	89123	gene
+			locus_tag	HWQ62_00075
+			protein_id	HWQ62_00075
+89491	89123	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00075
+			product	hypothetical protein
+			protein_id	HWQ62_00075
+89567	91408	gene
+			locus_tag	HWQ62_00076
+			protein_id	HWQ62_00076
+89567	91408	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00076
+			product	hypothetical protein
+			protein_id	HWQ62_00076
+91915	91391	gene
+			locus_tag	HWQ62_00077
+			protein_id	HWQ62_00077
+91915	91391	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00077
+			product	hypothetical protein
+			protein_id	HWQ62_00077
+92330	91941	gene
+			locus_tag	HWQ62_00078
+			protein_id	HWQ62_00078
+92330	91941	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00078
+			product	hypothetical protein
+			protein_id	HWQ62_00078
+93062	92382	gene
+			locus_tag	HWQ62_00079
+			protein_id	HWQ62_00079
+93062	92382	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00079
+			product	hypothetical protein
+			protein_id	HWQ62_00079
+94707	93088	gene
+			locus_tag	HWQ62_00080
+			protein_id	HWQ62_00080
+94707	93088	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00080
+			product	hypothetical protein
+			protein_id	HWQ62_00080
+94919	94761	gene
+			locus_tag	HWQ62_00081
+			protein_id	HWQ62_00081
+94919	94761	CDS
+			codon_start	1
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	HWQ62_00081
+			product	hypothetical protein
+			protein_id	HWQ62_00081
+95062	95286	gene
+			locus_tag	HWQ62_00082
+			protein_id	HWQ62_00082
+95062	95286	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00082
+			product	hypothetical protein
+			protein_id	HWQ62_00082
+95542	95291	gene
+			locus_tag	HWQ62_00083
+			protein_id	HWQ62_00083
+95542	95291	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00083
+			product	hypothetical protein
+			protein_id	HWQ62_00083
+95781	95572	gene
+			locus_tag	HWQ62_00084
+			protein_id	HWQ62_00084
+95781	95572	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00084
+			product	hypothetical protein
+			protein_id	HWQ62_00084
+95822	96016	gene
+			locus_tag	HWQ62_00085
+			protein_id	HWQ62_00085
+95822	96016	CDS
+			codon_start	1
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	HWQ62_00085
+			product	hypothetical protein
+			protein_id	HWQ62_00085
+96058	96588	gene
+			locus_tag	HWQ62_00086
+			protein_id	HWQ62_00086
+96058	96588	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00086
+			product	hypothetical protein
+			protein_id	HWQ62_00086
+96669	97211	gene
+			locus_tag	HWQ62_00087
+			protein_id	HWQ62_00087
+96669	97211	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00087
+			product	hypothetical protein
+			protein_id	HWQ62_00087
+97419	97195	gene
+			locus_tag	HWQ62_00088
+			protein_id	HWQ62_00088
+97419	97195	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00088
+			product	hypothetical protein
+			protein_id	HWQ62_00088
+97481	98017	gene
+			locus_tag	HWQ62_00089
+			protein_id	HWQ62_00089
+97481	98017	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00089
+			product	hypothetical protein
+			protein_id	HWQ62_00089
+98597	98019	gene
+			locus_tag	HWQ62_00090
+			protein_id	HWQ62_00090
+98597	98019	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00090
+			product	hypothetical protein
+			protein_id	HWQ62_00090
+98936	98622	gene
+			locus_tag	HWQ62_00091
+			protein_id	HWQ62_00091
+98936	98622	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00091
+			product	hypothetical protein
+			protein_id	HWQ62_00091
+98995	100488	gene
+			locus_tag	HWQ62_00092
+			protein_id	HWQ62_00092
+98995	100488	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00092
+			product	hypothetical protein
+			protein_id	HWQ62_00092
+100911	100456	gene
+			locus_tag	HWQ62_00093
+			protein_id	HWQ62_00093
+100911	100456	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00093
+			product	hypothetical protein
+			protein_id	HWQ62_00093
+101776	100922	gene
+			locus_tag	HWQ62_00094
+			protein_id	HWQ62_00094
+101776	100922	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00094
+			product	hypothetical protein
+			protein_id	HWQ62_00094
+102558	101842	gene
+			locus_tag	HWQ62_00095
+			protein_id	HWQ62_00095
+102558	101842	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00095
+			product	hypothetical protein
+			protein_id	HWQ62_00095
+103174	102614	gene
+			locus_tag	HWQ62_00096
+			protein_id	HWQ62_00096
+103174	102614	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00096
+			product	hypothetical protein
+			protein_id	HWQ62_00096
+104046	103174	gene
+			locus_tag	HWQ62_00097
+			protein_id	HWQ62_00097
+104046	103174	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00097
+			product	hypothetical protein
+			protein_id	HWQ62_00097
+104822	104052	gene
+			locus_tag	HWQ62_00098
+			protein_id	HWQ62_00098
+104822	104052	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00098
+			product	hypothetical protein
+			protein_id	HWQ62_00098
+104838	105758	gene
+			locus_tag	HWQ62_00099
+			protein_id	HWQ62_00099
+104838	105758	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00099
+			product	hypothetical protein
+			protein_id	HWQ62_00099
+106035	105739	gene
+			locus_tag	HWQ62_00100
+			protein_id	HWQ62_00100
+106035	105739	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00100
+			product	hypothetical protein
+			protein_id	HWQ62_00100
+106657	106199	gene
+			locus_tag	HWQ62_00101
+			protein_id	HWQ62_00101
+106657	106199	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00101
+			product	hypothetical protein
+			protein_id	HWQ62_00101
+109733	107001	gene
+			locus_tag	HWQ62_00102
+			protein_id	HWQ62_00102
+109733	107001	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00102
+			product	hypothetical protein
+			protein_id	HWQ62_00102
+109833	114704	gene
+			locus_tag	HWQ62_00103
+			protein_id	HWQ62_00103
+109833	114704	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00103
+			product	hypothetical protein
+			protein_id	HWQ62_00103
+114777	115886	gene
+			locus_tag	HWQ62_00104
+			protein_id	HWQ62_00104
+114777	115886	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00104
+			product	hypothetical protein
+			protein_id	HWQ62_00104
+115897	116448	gene
+			locus_tag	HWQ62_00105
+			protein_id	HWQ62_00105
+115897	116448	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00105
+			product	hypothetical protein
+			protein_id	HWQ62_00105
+117223	116582	gene
+			locus_tag	HWQ62_00106
+			protein_id	HWQ62_00106
+117223	116582	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00106
+			product	hypothetical protein
+			protein_id	HWQ62_00106
+117262	117603	gene
+			locus_tag	HWQ62_00107
+			protein_id	HWQ62_00107
+117262	117603	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00107
+			product	hypothetical protein
+			protein_id	HWQ62_00107
+118149	117592	gene
+			locus_tag	HWQ62_00108
+			protein_id	HWQ62_00108
+118149	117592	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00108
+			product	hypothetical protein
+			protein_id	HWQ62_00108
+118169	118798	gene
+			locus_tag	HWQ62_00109
+			protein_id	HWQ62_00109
+118169	118798	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00109
+			product	hypothetical protein
+			protein_id	HWQ62_00109
+118961	118761	gene
+			locus_tag	HWQ62_00110
+			protein_id	HWQ62_00110
+118961	118761	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00110
+			product	hypothetical protein
+			protein_id	HWQ62_00110
+119354	118971	gene
+			locus_tag	HWQ62_00111
+			protein_id	HWQ62_00111
+119354	118971	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00111
+			product	hypothetical protein
+			protein_id	HWQ62_00111
+120566	119391	gene
+			locus_tag	HWQ62_00112
+			protein_id	HWQ62_00112
+120566	119391	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00112
+			product	hypothetical protein
+			protein_id	HWQ62_00112
+120594	121073	gene
+			locus_tag	HWQ62_00113
+			protein_id	HWQ62_00113
+120594	121073	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00113
+			product	hypothetical protein
+			protein_id	HWQ62_00113
+121233	121063	gene
+			locus_tag	HWQ62_00114
+			protein_id	HWQ62_00114
+121233	121063	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00114
+			product	hypothetical protein
+			protein_id	HWQ62_00114
+121279	121818	gene
+			locus_tag	HWQ62_00115
+			protein_id	HWQ62_00115
+121279	121818	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00115
+			product	hypothetical protein
+			protein_id	HWQ62_00115
+121836	122717	gene
+			locus_tag	HWQ62_00116
+			protein_id	HWQ62_00116
+121836	122717	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00116
+			product	hypothetical protein
+			protein_id	HWQ62_00116
+123455	122712	gene
+			locus_tag	HWQ62_00117
+			protein_id	HWQ62_00117
+123455	122712	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00117
+			product	hypothetical protein
+			protein_id	HWQ62_00117
+123486	124004	gene
+			locus_tag	HWQ62_00118
+			protein_id	HWQ62_00118
+123486	124004	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00118
+			product	hypothetical protein
+			protein_id	HWQ62_00118
+124028	125893	gene
+			locus_tag	HWQ62_00119
+			protein_id	HWQ62_00119
+124028	125893	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00119
+			product	hypothetical protein
+			protein_id	HWQ62_00119
+125945	126760	gene
+			locus_tag	HWQ62_00120
+			protein_id	HWQ62_00120
+125945	126760	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00120
+			product	hypothetical protein
+			protein_id	HWQ62_00120
+126769	127305	gene
+			locus_tag	HWQ62_00121
+			protein_id	HWQ62_00121
+126769	127305	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00121
+			product	hypothetical protein
+			protein_id	HWQ62_00121
+127314	127652	gene
+			locus_tag	HWQ62_00122
+			protein_id	HWQ62_00122
+127314	127652	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00122
+			product	hypothetical protein
+			protein_id	HWQ62_00122
+127673	130663	gene
+			locus_tag	HWQ62_00123
+			protein_id	HWQ62_00123
+127673	130663	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00123
+			product	hypothetical protein
+			protein_id	HWQ62_00123
+130703	132328	gene
+			locus_tag	HWQ62_00124
+			protein_id	HWQ62_00124
+130703	132328	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00124
+			product	hypothetical protein
+			protein_id	HWQ62_00124
+132306	136610	gene
+			locus_tag	HWQ62_00125
+			protein_id	HWQ62_00125
+132306	136610	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00125
+			product	hypothetical protein
+			protein_id	HWQ62_00125
+136680	138578	gene
+			locus_tag	HWQ62_00126
+			protein_id	HWQ62_00126
+136680	138578	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00126
+			product	hypothetical protein
+			protein_id	HWQ62_00126
+138628	143757	gene
+			locus_tag	HWQ62_00127
+			protein_id	HWQ62_00127
+138628	143757	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00127
+			product	hypothetical protein
+			protein_id	HWQ62_00127
+143808	144992	gene
+			locus_tag	HWQ62_00128
+			protein_id	HWQ62_00128
+143808	144992	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00128
+			product	hypothetical protein
+			protein_id	HWQ62_00128
+145055	146431	gene
+			locus_tag	HWQ62_00129
+			protein_id	HWQ62_00129
+145055	146431	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00129
+			product	hypothetical protein
+			protein_id	HWQ62_00129
+146445	147527	gene
+			locus_tag	HWQ62_00130
+			protein_id	HWQ62_00130
+146445	147527	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00130
+			product	hypothetical protein
+			protein_id	HWQ62_00130
+147511	148200	gene
+			locus_tag	HWQ62_00131
+			protein_id	HWQ62_00131
+147511	148200	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00131
+			product	hypothetical protein
+			protein_id	HWQ62_00131
+148273	148422	gene
+			locus_tag	HWQ62_00132
+			protein_id	HWQ62_00132
+148273	148422	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00132
+			product	hypothetical protein
+			protein_id	HWQ62_00132
+149138	148419	gene
+			locus_tag	HWQ62_00133
+			protein_id	HWQ62_00133
+149138	148419	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00133
+			product	Putative prolyl 4-hydroxylase
+			protein_id	HWQ62_00133
+149171	149569	gene
+			locus_tag	HWQ62_00134
+			protein_id	HWQ62_00134
+149171	149569	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00134
+			product	hypothetical protein
+			protein_id	HWQ62_00134
+150475	149558	gene
+			locus_tag	HWQ62_00135
+			protein_id	HWQ62_00135
+150475	149558	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00135
+			product	hypothetical protein
+			protein_id	HWQ62_00135
+150754	150509	gene
+			locus_tag	HWQ62_00136
+			protein_id	HWQ62_00136
+150754	150509	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00136
+			product	hypothetical protein
+			protein_id	HWQ62_00136
+151167	150769	gene
+			locus_tag	HWQ62_00137
+			protein_id	HWQ62_00137
+151167	150769	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00137
+			product	hypothetical protein
+			protein_id	HWQ62_00137
+152195	151179	gene
+			locus_tag	HWQ62_00138
+			protein_id	HWQ62_00138
+152195	151179	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00138
+			product	hypothetical protein
+			protein_id	HWQ62_00138
+152630	152232	gene
+			locus_tag	HWQ62_00139
+			protein_id	HWQ62_00139
+152630	152232	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00139
+			product	hypothetical protein
+			protein_id	HWQ62_00139
+152659	153516	gene
+			locus_tag	HWQ62_00140
+			protein_id	HWQ62_00140
+152659	153516	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00140
+			product	hypothetical protein
+			protein_id	HWQ62_00140
+153915	153487	gene
+			locus_tag	HWQ62_00141
+			protein_id	HWQ62_00141
+153915	153487	CDS
+			codon_start	1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q5UR25
+			locus_tag	HWQ62_00141
+			product	Thioredoxin domain-containing protein R362
+			protein_id	HWQ62_00141
+154245	153931	gene
+			locus_tag	HWQ62_00142
+			protein_id	HWQ62_00142
+154245	153931	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00142
+			product	hypothetical protein
+			protein_id	HWQ62_00142
+154306	155157	gene
+			locus_tag	HWQ62_00143
+			protein_id	HWQ62_00143
+154306	155157	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00143
+			product	hypothetical protein
+			protein_id	HWQ62_00143
+155159	156076	gene
+			locus_tag	HWQ62_00144
+			protein_id	HWQ62_00144
+155159	156076	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00144
+			product	putative DNA polymerase family X
+			protein_id	HWQ62_00144
+156509	156069	gene
+			locus_tag	HWQ62_00145
+			protein_id	HWQ62_00145
+156509	156069	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00145
+			product	hypothetical protein
+			protein_id	HWQ62_00145
+157042	156539	gene
+			locus_tag	HWQ62_00146
+			protein_id	HWQ62_00146
+157042	156539	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00146
+			product	hypothetical protein
+			protein_id	HWQ62_00146
+158087	157065	gene
+			locus_tag	HWQ62_00147
+			protein_id	HWQ62_00147
+158087	157065	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00147
+			product	hypothetical protein
+			protein_id	HWQ62_00147
+158996	158109	gene
+			locus_tag	HWQ62_00148
+			protein_id	HWQ62_00148
+158996	158109	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00148
+			product	hypothetical protein
+			protein_id	HWQ62_00148
+159021	159872	gene
+			locus_tag	HWQ62_00149
+			protein_id	HWQ62_00149
+159021	159872	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00149
+			product	hypothetical protein
+			protein_id	HWQ62_00149
+160144	161007	gene
+			locus_tag	HWQ62_00150
+			protein_id	HWQ62_00150
+160144	161007	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00150
+			product	hypothetical protein
+			protein_id	HWQ62_00150
+160961	161644	gene
+			locus_tag	HWQ62_00151
+			protein_id	HWQ62_00151
+160961	161644	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00151
+			product	hypothetical protein
+			protein_id	HWQ62_00151
+161967	161542	gene
+			locus_tag	HWQ62_00152
+			protein_id	HWQ62_00152
+161967	161542	CDS
+			EC_number	3.6.1.23
+			codon_start	1
+			gene	DUT
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P17374
+			locus_tag	HWQ62_00152
+			product	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+			protein_id	HWQ62_00152
+162064	163245	gene
+			locus_tag	HWQ62_00153
+			protein_id	HWQ62_00153
+162064	163245	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00153
+			product	hypothetical protein
+			protein_id	HWQ62_00153
+164135	163251	gene
+			locus_tag	HWQ62_00154
+			protein_id	HWQ62_00154
+164135	163251	CDS
+			codon_start	1
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	HWQ62_00154
+			product	hypothetical protein
+			protein_id	HWQ62_00154
+166611	164242	gene
+			locus_tag	HWQ62_00155
+			protein_id	HWQ62_00155
+166611	164242	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00155
+			product	Ribonucleoside-diphosphate reductase large subunit
+			protein_id	HWQ62_00155
+171262	166646	gene
+			locus_tag	HWQ62_00156
+			protein_id	HWQ62_00156
+171262	166646	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00156
+			product	hypothetical protein
+			protein_id	HWQ62_00156
+171840	171268	gene
+			locus_tag	HWQ62_00157
+			protein_id	HWQ62_00157
+171840	171268	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00157
+			product	hypothetical protein
+			protein_id	HWQ62_00157
+171913	175533	gene
+			locus_tag	HWQ62_00158
+			protein_id	HWQ62_00158
+171913	175533	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00158
+			product	hypothetical protein
+			protein_id	HWQ62_00158
+177007	175520	gene
+			locus_tag	HWQ62_00159
+			protein_id	HWQ62_00159
+177007	175520	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00159
+			product	hypothetical protein
+			protein_id	HWQ62_00159
+177767	177030	gene
+			locus_tag	HWQ62_00160
+			protein_id	HWQ62_00160
+177767	177030	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00160
+			product	hypothetical protein
+			protein_id	HWQ62_00160
+177855	178760	gene
+			locus_tag	HWQ62_00161
+			protein_id	HWQ62_00161
+177855	178760	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00161
+			product	hypothetical protein
+			protein_id	HWQ62_00161
+178714	179136	gene
+			locus_tag	HWQ62_00162
+			protein_id	HWQ62_00162
+178714	179136	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00162
+			product	hypothetical protein
+			protein_id	HWQ62_00162
+179598	179122	gene
+			locus_tag	HWQ62_00163
+			protein_id	HWQ62_00163
+179598	179122	CDS
+			codon_start	1
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	HWQ62_00163
+			product	hypothetical protein
+			protein_id	HWQ62_00163
+179621	182437	gene
+			locus_tag	HWQ62_00164
+			protein_id	HWQ62_00164
+179621	182437	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00164
+			product	hypothetical protein
+			protein_id	HWQ62_00164
+183515	182643	gene
+			locus_tag	HWQ62_00165
+			protein_id	HWQ62_00165
+183515	182643	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00165
+			product	hypothetical protein
+			protein_id	HWQ62_00165
+183971	183843	gene
+			locus_tag	HWQ62_00166
+			protein_id	HWQ62_00166
+183971	183843	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00166
+			product	hypothetical protein
+			protein_id	HWQ62_00166
+185197	184076	gene
+			locus_tag	HWQ62_00167
+			protein_id	HWQ62_00167
+185197	184076	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00167
+			product	hypothetical protein
+			protein_id	HWQ62_00167
+<186216	185464	gene
+			locus_tag	HWQ62_00168
+			protein_id	HWQ62_00168
+<186216	185464	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00168
+			product	hypothetical protein
+			protein_id	HWQ62_00168
+>Features POV01B_2
+311	>3	gene
+			locus_tag	HWQ62_00169
+			protein_id	HWQ62_00169
+311	>3	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00169
+			product	hypothetical protein
+			protein_id	HWQ62_00169
+1922	396	gene
+			locus_tag	HWQ62_00170
+			protein_id	HWQ62_00170
+1922	396	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00170
+			product	hypothetical protein
+			protein_id	HWQ62_00170
+1990	2550	gene
+			locus_tag	HWQ62_00171
+			protein_id	HWQ62_00171
+1990	2550	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00171
+			product	hypothetical protein
+			protein_id	HWQ62_00171
+2735	2547	gene
+			locus_tag	HWQ62_00172
+			protein_id	HWQ62_00172
+2735	2547	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00172
+			product	hypothetical protein
+			protein_id	HWQ62_00172
+3082	2831	gene
+			locus_tag	HWQ62_00173
+			protein_id	HWQ62_00173
+3082	2831	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00173
+			product	hypothetical protein
+			protein_id	HWQ62_00173
+3368	4492	gene
+			locus_tag	HWQ62_00174
+			protein_id	HWQ62_00174
+3368	4492	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00174
+			product	hypothetical protein
+			protein_id	HWQ62_00174
+4510	4908	gene
+			locus_tag	HWQ62_00175
+			protein_id	HWQ62_00175
+4510	4908	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00175
+			product	hypothetical protein
+			protein_id	HWQ62_00175
+5572	4913	gene
+			locus_tag	HWQ62_00176
+			protein_id	HWQ62_00176
+5572	4913	CDS
+			codon_start	1
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	HWQ62_00176
+			product	hypothetical protein
+			protein_id	HWQ62_00176
+5599	7647	gene
+			locus_tag	HWQ62_00177
+			protein_id	HWQ62_00177
+5599	7647	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00177
+			product	hypothetical protein
+			protein_id	HWQ62_00177
+8200	7709	gene
+			locus_tag	HWQ62_00178
+			protein_id	HWQ62_00178
+8200	7709	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00178
+			product	hypothetical protein
+			protein_id	HWQ62_00178
+8246	8455	gene
+			locus_tag	HWQ62_00179
+			protein_id	HWQ62_00179
+8246	8455	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00179
+			product	hypothetical protein
+			protein_id	HWQ62_00179
+8762	8433	gene
+			locus_tag	HWQ62_00180
+			protein_id	HWQ62_00180
+8762	8433	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00180
+			product	hypothetical protein
+			protein_id	HWQ62_00180
+9101	8787	gene
+			locus_tag	HWQ62_00181
+			protein_id	HWQ62_00181
+9101	8787	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00181
+			product	hypothetical protein
+			protein_id	HWQ62_00181
+9159	9650	gene
+			locus_tag	HWQ62_00182
+			protein_id	HWQ62_00182
+9159	9650	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00182
+			product	hypothetical protein
+			protein_id	HWQ62_00182
+10405	9662	gene
+			locus_tag	HWQ62_00183
+			protein_id	HWQ62_00183
+10405	9662	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00183
+			product	hypothetical protein
+			protein_id	HWQ62_00183
+10518	10976	gene
+			locus_tag	HWQ62_00184
+			protein_id	HWQ62_00184
+10518	10976	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00184
+			product	hypothetical protein
+			protein_id	HWQ62_00184
+10963	11367	gene
+			locus_tag	HWQ62_00185
+			protein_id	HWQ62_00185
+10963	11367	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00185
+			product	hypothetical protein
+			protein_id	HWQ62_00185
+11735	11376	gene
+			locus_tag	HWQ62_00186
+			protein_id	HWQ62_00186
+11735	11376	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00186
+			product	hypothetical protein
+			protein_id	HWQ62_00186
+12257	11991	gene
+			locus_tag	HWQ62_00187
+			protein_id	HWQ62_00187
+12257	11991	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00187
+			product	hypothetical protein
+			protein_id	HWQ62_00187
+13416	12352	gene
+			locus_tag	HWQ62_00188
+			protein_id	HWQ62_00188
+13416	12352	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00188
+			product	hypothetical protein
+			protein_id	HWQ62_00188
+13535	14023	gene
+			locus_tag	HWQ62_00189
+			protein_id	HWQ62_00189
+13535	14023	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00189
+			product	hypothetical protein
+			protein_id	HWQ62_00189
+14072	14287	gene
+			locus_tag	HWQ62_00190
+			protein_id	HWQ62_00190
+14072	14287	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00190
+			product	hypothetical protein
+			protein_id	HWQ62_00190
+14655	14392	gene
+			locus_tag	HWQ62_00191
+			protein_id	HWQ62_00191
+14655	14392	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00191
+			product	hypothetical protein
+			protein_id	HWQ62_00191
+17048	14952	gene
+			locus_tag	HWQ62_00192
+			protein_id	HWQ62_00192
+17048	14952	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00192
+			product	hypothetical protein
+			protein_id	HWQ62_00192
+17568	17083	gene
+			locus_tag	HWQ62_00193
+			protein_id	HWQ62_00193
+17568	17083	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00193
+			product	hypothetical protein
+			protein_id	HWQ62_00193
+18562	17606	gene
+			locus_tag	HWQ62_00194
+			protein_id	HWQ62_00194
+18562	17606	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00194
+			product	hypothetical protein
+			protein_id	HWQ62_00194
+18635	20287	gene
+			locus_tag	HWQ62_00195
+			protein_id	HWQ62_00195
+18635	20287	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00195
+			product	hypothetical protein
+			protein_id	HWQ62_00195
+20681	20403	gene
+			locus_tag	HWQ62_00196
+			protein_id	HWQ62_00196
+20681	20403	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00196
+			product	hypothetical protein
+			protein_id	HWQ62_00196
+20755	21246	gene
+			locus_tag	HWQ62_00197
+			protein_id	HWQ62_00197
+20755	21246	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00197
+			product	hypothetical protein
+			protein_id	HWQ62_00197
+21498	21256	gene
+			locus_tag	HWQ62_00198
+			protein_id	HWQ62_00198
+21498	21256	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00198
+			product	hypothetical protein
+			protein_id	HWQ62_00198
+22033	21638	gene
+			locus_tag	HWQ62_00199
+			protein_id	HWQ62_00199
+22033	21638	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00199
+			product	hypothetical protein
+			protein_id	HWQ62_00199
+22086	22490	gene
+			locus_tag	HWQ62_00200
+			protein_id	HWQ62_00200
+22086	22490	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00200
+			product	hypothetical protein
+			protein_id	HWQ62_00200
+23152	22487	gene
+			locus_tag	HWQ62_00201
+			protein_id	HWQ62_00201
+23152	22487	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00201
+			product	hypothetical protein
+			protein_id	HWQ62_00201
+23706	23194	gene
+			locus_tag	HWQ62_00202
+			protein_id	HWQ62_00202
+23706	23194	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00202
+			product	hypothetical protein
+			protein_id	HWQ62_00202
+23810	24433	gene
+			locus_tag	HWQ62_00203
+			protein_id	HWQ62_00203
+23810	24433	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00203
+			product	Uracil-DNA glycosylase
+			protein_id	HWQ62_00203
+24484	25389	gene
+			locus_tag	HWQ62_00204
+			protein_id	HWQ62_00204
+24484	25389	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00204
+			product	hypothetical protein
+			protein_id	HWQ62_00204
+26068	25718	gene
+			locus_tag	HWQ62_00205
+			protein_id	HWQ62_00205
+26068	25718	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00205
+			product	hypothetical protein
+			protein_id	HWQ62_00205
+28059	26077	gene
+			locus_tag	HWQ62_00206
+			protein_id	HWQ62_00206
+28059	26077	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00206
+			product	hypothetical protein
+			protein_id	HWQ62_00206
+28213	28830	gene
+			locus_tag	HWQ62_00207
+			protein_id	HWQ62_00207
+28213	28830	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00207
+			product	hypothetical protein
+			protein_id	HWQ62_00207
+29441	28839	gene
+			locus_tag	HWQ62_00208
+			protein_id	HWQ62_00208
+29441	28839	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00208
+			product	hypothetical protein
+			protein_id	HWQ62_00208
+32065	29633	gene
+			locus_tag	HWQ62_00209
+			protein_id	HWQ62_00209
+32065	29633	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00209
+			product	hypothetical protein
+			protein_id	HWQ62_00209
+34681	32189	gene
+			locus_tag	HWQ62_00210
+			protein_id	HWQ62_00210
+34681	32189	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00210
+			product	hypothetical protein
+			protein_id	HWQ62_00210
+36939	34780	gene
+			locus_tag	HWQ62_00211
+			protein_id	HWQ62_00211
+36939	34780	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00211
+			product	hypothetical protein
+			protein_id	HWQ62_00211
+38843	37023	gene
+			locus_tag	HWQ62_00212
+			protein_id	HWQ62_00212
+38843	37023	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00212
+			product	hypothetical protein
+			protein_id	HWQ62_00212
+39436	38939	gene
+			locus_tag	HWQ62_00213
+			protein_id	HWQ62_00213
+39436	38939	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00213
+			product	hypothetical protein
+			protein_id	HWQ62_00213
+39499	58233	gene
+			locus_tag	HWQ62_00214
+			protein_id	HWQ62_00214
+39499	58233	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00214
+			product	hypothetical protein
+			protein_id	HWQ62_00214
+58405	58244	gene
+			locus_tag	HWQ62_00215
+			protein_id	HWQ62_00215
+58405	58244	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00215
+			product	hypothetical protein
+			protein_id	HWQ62_00215
+58661	60118	gene
+			locus_tag	HWQ62_00216
+			protein_id	HWQ62_00216
+58661	60118	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00216
+			product	hypothetical protein
+			protein_id	HWQ62_00216
+60222	60719	gene
+			locus_tag	HWQ62_00217
+			protein_id	HWQ62_00217
+60222	60719	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00217
+			product	hypothetical protein
+			protein_id	HWQ62_00217
+62167	60803	gene
+			locus_tag	HWQ62_00218
+			protein_id	HWQ62_00218
+62167	60803	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00218
+			product	hypothetical protein
+			protein_id	HWQ62_00218
+62518	63951	gene
+			locus_tag	HWQ62_00219
+			protein_id	HWQ62_00219
+62518	63951	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00219
+			product	hypothetical protein
+			protein_id	HWQ62_00219
+64320	63952	gene
+			locus_tag	HWQ62_00220
+			protein_id	HWQ62_00220
+64320	63952	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00220
+			product	hypothetical protein
+			protein_id	HWQ62_00220
+64445	64819	gene
+			locus_tag	HWQ62_00221
+			protein_id	HWQ62_00221
+64445	64819	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00221
+			product	hypothetical protein
+			protein_id	HWQ62_00221
+65188	64925	gene
+			locus_tag	HWQ62_00222
+			protein_id	HWQ62_00222
+65188	64925	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00222
+			product	hypothetical protein
+			protein_id	HWQ62_00222
+65294	65713	gene
+			locus_tag	HWQ62_00223
+			protein_id	HWQ62_00223
+65294	65713	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00223
+			product	hypothetical protein
+			protein_id	HWQ62_00223
+66300	65806	gene
+			locus_tag	HWQ62_00224
+			protein_id	HWQ62_00224
+66300	65806	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00224
+			product	hypothetical protein
+			protein_id	HWQ62_00224
+66553	66681	gene
+			locus_tag	HWQ62_00225
+			protein_id	HWQ62_00225
+66553	66681	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00225
+			product	hypothetical protein
+			protein_id	HWQ62_00225
+68007	66670	gene
+			locus_tag	HWQ62_00226
+			protein_id	HWQ62_00226
+68007	66670	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00226
+			product	hypothetical protein
+			protein_id	HWQ62_00226
+70014	68122	gene
+			locus_tag	HWQ62_00227
+			protein_id	HWQ62_00227
+70014	68122	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00227
+			product	hypothetical protein
+			protein_id	HWQ62_00227
+70408	71520	gene
+			locus_tag	HWQ62_00228
+			protein_id	HWQ62_00228
+70408	71520	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00228
+			product	hypothetical protein
+			protein_id	HWQ62_00228
+72387	71638	gene
+			locus_tag	HWQ62_00229
+			protein_id	HWQ62_00229
+72387	71638	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00229
+			product	hypothetical protein
+			protein_id	HWQ62_00229
+72447	72683	gene
+			locus_tag	HWQ62_00230
+			protein_id	HWQ62_00230
+72447	72683	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00230
+			product	hypothetical protein
+			protein_id	HWQ62_00230
+>Features POV01B_3
+886	320	gene
+			locus_tag	HWQ62_00231
+			protein_id	HWQ62_00231
+886	320	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00231
+			product	hypothetical protein
+			protein_id	HWQ62_00231
+1056	1451	gene
+			locus_tag	HWQ62_00232
+			protein_id	HWQ62_00232
+1056	1451	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00232
+			product	hypothetical protein
+			protein_id	HWQ62_00232
+2960	1506	gene
+			locus_tag	HWQ62_00233
+			protein_id	HWQ62_00233
+2960	1506	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00233
+			product	hypothetical protein
+			protein_id	HWQ62_00233
+4384	2981	gene
+			locus_tag	HWQ62_00234
+			protein_id	HWQ62_00234
+4384	2981	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00234
+			product	hypothetical protein
+			protein_id	HWQ62_00234
+4727	4464	gene
+			locus_tag	HWQ62_00235
+			protein_id	HWQ62_00235
+4727	4464	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00235
+			product	hypothetical protein
+			protein_id	HWQ62_00235
+11474	4830	gene
+			locus_tag	HWQ62_00236
+			protein_id	HWQ62_00236
+11474	4830	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00236
+			product	hypothetical protein
+			protein_id	HWQ62_00236
+14429	11496	gene
+			locus_tag	HWQ62_00237
+			protein_id	HWQ62_00237
+14429	11496	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00237
+			product	hypothetical protein
+			protein_id	HWQ62_00237
+14589	17306	gene
+			locus_tag	HWQ62_00238
+			protein_id	HWQ62_00238
+14589	17306	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00238
+			product	hypothetical protein
+			protein_id	HWQ62_00238
+18786	17293	gene
+			locus_tag	HWQ62_00239
+			protein_id	HWQ62_00239
+18786	17293	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00239
+			product	hypothetical protein
+			protein_id	HWQ62_00239
+19214	18837	gene
+			locus_tag	HWQ62_00240
+			protein_id	HWQ62_00240
+19214	18837	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00240
+			product	hypothetical protein
+			protein_id	HWQ62_00240
+19288	19749	gene
+			locus_tag	HWQ62_00241
+			protein_id	HWQ62_00241
+19288	19749	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00241
+			product	hypothetical protein
+			protein_id	HWQ62_00241
+20052	19705	gene
+			locus_tag	HWQ62_00242
+			protein_id	HWQ62_00242
+20052	19705	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00242
+			product	hypothetical protein
+			protein_id	HWQ62_00242
+20903	20055	gene
+			locus_tag	HWQ62_00243
+			protein_id	HWQ62_00243
+20903	20055	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00243
+			product	hypothetical protein
+			protein_id	HWQ62_00243
+21954	20896	gene
+			locus_tag	HWQ62_00244
+			protein_id	HWQ62_00244
+21954	20896	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00244
+			product	hypothetical protein
+			protein_id	HWQ62_00244
+22036	22260	gene
+			locus_tag	HWQ62_00245
+			protein_id	HWQ62_00245
+22036	22260	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00245
+			product	hypothetical protein
+			protein_id	HWQ62_00245
+22315	23283	gene
+			locus_tag	HWQ62_00246
+			protein_id	HWQ62_00246
+22315	23283	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00246
+			product	Ribonucleoside-diphosphate reductase small chain
+			protein_id	HWQ62_00246
+24284	23280	gene
+			locus_tag	HWQ62_00247
+			protein_id	HWQ62_00247
+24284	23280	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00247
+			product	hypothetical protein
+			protein_id	HWQ62_00247
+24331	24609	gene
+			locus_tag	HWQ62_00248
+			protein_id	HWQ62_00248
+24331	24609	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00248
+			product	hypothetical protein
+			protein_id	HWQ62_00248
+25375	24584	gene
+			locus_tag	HWQ62_00249
+			protein_id	HWQ62_00249
+25375	24584	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00249
+			product	Ribonuclease H
+			protein_id	HWQ62_00249
+25470	25673	gene
+			locus_tag	HWQ62_00250
+			protein_id	HWQ62_00250
+25470	25673	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00250
+			product	hypothetical protein
+			protein_id	HWQ62_00250
+25760	27310	gene
+			locus_tag	HWQ62_00251
+			protein_id	HWQ62_00251
+25760	27310	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00251
+			product	hypothetical protein
+			protein_id	HWQ62_00251
+27681	27289	gene
+			locus_tag	HWQ62_00252
+			protein_id	HWQ62_00252
+27681	27289	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00252
+			product	hypothetical protein
+			protein_id	HWQ62_00252
+28400	27738	gene
+			locus_tag	HWQ62_00253
+			protein_id	HWQ62_00253
+28400	27738	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00253
+			product	hypothetical protein
+			protein_id	HWQ62_00253
+28471	28656	gene
+			locus_tag	HWQ62_00254
+			protein_id	HWQ62_00254
+28471	28656	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00254
+			product	hypothetical protein
+			protein_id	HWQ62_00254
+29555	28665	gene
+			locus_tag	HWQ62_00255
+			protein_id	HWQ62_00255
+29555	28665	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00255
+			product	hypothetical protein
+			protein_id	HWQ62_00255
+32364	29698	gene
+			locus_tag	HWQ62_00256
+			protein_id	HWQ62_00256
+32364	29698	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00256
+			product	hypothetical protein
+			protein_id	HWQ62_00256
+32412	33047	gene
+			locus_tag	HWQ62_00257
+			protein_id	HWQ62_00257
+32412	33047	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00257
+			product	hypothetical protein
+			protein_id	HWQ62_00257
+34422	33040	gene
+			locus_tag	HWQ62_00258
+			protein_id	HWQ62_00258
+34422	33040	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00258
+			product	hypothetical protein
+			protein_id	HWQ62_00258
+35007	34459	gene
+			locus_tag	HWQ62_00259
+			protein_id	HWQ62_00259
+35007	34459	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00259
+			product	hypothetical protein
+			protein_id	HWQ62_00259
+35698	35030	gene
+			locus_tag	HWQ62_00260
+			protein_id	HWQ62_00260
+35698	35030	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00260
+			product	hypothetical protein
+			protein_id	HWQ62_00260
+37656	35752	gene
+			locus_tag	HWQ62_00261
+			protein_id	HWQ62_00261
+37656	35752	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00261
+			product	Movement protein Hsp70h
+			protein_id	HWQ62_00261
+40333	37721	gene
+			locus_tag	HWQ62_00262
+			protein_id	HWQ62_00262
+40333	37721	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00262
+			product	hypothetical protein
+			protein_id	HWQ62_00262
+40569	40318	gene
+			locus_tag	HWQ62_00263
+			protein_id	HWQ62_00263
+40569	40318	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00263
+			product	hypothetical protein
+			protein_id	HWQ62_00263
+44969	40566	gene
+			locus_tag	HWQ62_00264
+			protein_id	HWQ62_00264
+44969	40566	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00264
+			product	DNA-directed RNA polymerase subunit 1
+			protein_id	HWQ62_00264
+45123	46751	gene
+			locus_tag	HWQ62_00265
+			protein_id	HWQ62_00265
+45123	46751	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00265
+			product	hypothetical protein
+			protein_id	HWQ62_00265
+47041	46754	gene
+			locus_tag	HWQ62_00266
+			protein_id	HWQ62_00266
+47041	46754	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00266
+			product	hypothetical protein
+			protein_id	HWQ62_00266
+49034	47049	gene
+			locus_tag	HWQ62_00267
+			protein_id	HWQ62_00267
+49034	47049	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00267
+			product	DNA ligase
+			protein_id	HWQ62_00267
+49082	49603	gene
+			locus_tag	HWQ62_00268
+			protein_id	HWQ62_00268
+49082	49603	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00268
+			product	hypothetical protein
+			protein_id	HWQ62_00268
+49614	50099	gene
+			locus_tag	HWQ62_00269
+			protein_id	HWQ62_00269
+49614	50099	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00269
+			product	hypothetical protein
+			protein_id	HWQ62_00269
+50906	50124	gene
+			locus_tag	HWQ62_00270
+			protein_id	HWQ62_00270
+50906	50124	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00270
+			product	putative DNA polymerase sliding clamp
+			protein_id	HWQ62_00270
+50969	51646	gene
+			locus_tag	HWQ62_00271
+			protein_id	HWQ62_00271
+50969	51646	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00271
+			product	hypothetical protein
+			protein_id	HWQ62_00271
+54151	51641	gene
+			locus_tag	HWQ62_00272
+			protein_id	HWQ62_00272
+54151	51641	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00272
+			product	hypothetical protein
+			protein_id	HWQ62_00272
+54329	54679	gene
+			locus_tag	HWQ62_00273
+			protein_id	HWQ62_00273
+54329	54679	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00273
+			product	hypothetical protein
+			protein_id	HWQ62_00273
+<54947	54699	gene
+			locus_tag	HWQ62_00274
+			protein_id	HWQ62_00274
+<54947	54699	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00274
+			product	hypothetical protein
+			protein_id	HWQ62_00274
+>Features POV01B_4
+660	779	gene
+			locus_tag	HWQ62_00275
+660	697	tRNA
+744	779
+			inference	ab initio prediction:tRNAscan-SE
+			locus_tag	HWQ62_00275
+			note	tRNA-Ile(TAT)
+			product	tRNA-Ile
+2923	896	gene
+			locus_tag	HWQ62_00276
+			protein_id	HWQ62_00276
+2923	896	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00276
+			product	hypothetical protein
+			protein_id	HWQ62_00276
+2967	3818	gene
+			locus_tag	HWQ62_00277
+			protein_id	HWQ62_00277
+2967	3818	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00277
+			product	hypothetical protein
+			protein_id	HWQ62_00277
+3886	4746	gene
+			locus_tag	HWQ62_00278
+			protein_id	HWQ62_00278
+3886	4746	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00278
+			product	hypothetical protein
+			protein_id	HWQ62_00278
+5571	4771	gene
+			locus_tag	HWQ62_00279
+			protein_id	HWQ62_00279
+5571	4771	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00279
+			product	Putative thiol protease R355
+			protein_id	HWQ62_00279
+5663	8302	gene
+			locus_tag	HWQ62_00280
+			protein_id	HWQ62_00280
+5663	8302	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00280
+			product	hypothetical protein
+			protein_id	HWQ62_00280
+8411	8965	gene
+			locus_tag	HWQ62_00281
+			protein_id	HWQ62_00281
+8411	8965	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00281
+			product	hypothetical protein
+			protein_id	HWQ62_00281
+9003	10181	gene
+			locus_tag	HWQ62_00282
+			protein_id	HWQ62_00282
+9003	10181	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00282
+			product	hypothetical protein
+			protein_id	HWQ62_00282
+10209	10526	gene
+			locus_tag	HWQ62_00283
+			protein_id	HWQ62_00283
+10209	10526	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00283
+			product	hypothetical protein
+			protein_id	HWQ62_00283
+11014	10523	gene
+			locus_tag	HWQ62_00284
+			protein_id	HWQ62_00284
+11014	10523	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00284
+			product	hypothetical protein
+			protein_id	HWQ62_00284
+11045	12370	gene
+			locus_tag	HWQ62_00285
+			protein_id	HWQ62_00285
+11045	12370	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00285
+			product	putative helicase D10
+			protein_id	HWQ62_00285
+12398	13003	gene
+			locus_tag	HWQ62_00286
+			protein_id	HWQ62_00286
+12398	13003	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00286
+			product	hypothetical protein
+			protein_id	HWQ62_00286
+13065	14009	gene
+			locus_tag	HWQ62_00287
+			protein_id	HWQ62_00287
+13065	14009	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00287
+			product	hypothetical protein
+			protein_id	HWQ62_00287
+14529	13990	gene
+			locus_tag	HWQ62_00288
+			protein_id	HWQ62_00288
+14529	13990	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00288
+			product	hypothetical protein
+			protein_id	HWQ62_00288
+14632	15156	gene
+			locus_tag	HWQ62_00289
+			protein_id	HWQ62_00289
+14632	15156	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00289
+			product	Transcription factor S-II-related protein
+			protein_id	HWQ62_00289
+15463	15161	gene
+			locus_tag	HWQ62_00290
+			protein_id	HWQ62_00290
+15463	15161	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00290
+			product	hypothetical protein
+			protein_id	HWQ62_00290
+15874	15500	gene
+			locus_tag	HWQ62_00291
+			protein_id	HWQ62_00291
+15874	15500	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00291
+			product	hypothetical protein
+			protein_id	HWQ62_00291
+15943	16929	gene
+			locus_tag	HWQ62_00292
+			protein_id	HWQ62_00292
+15943	16929	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00292
+			product	hypothetical protein
+			protein_id	HWQ62_00292
+16989	17246	gene
+			locus_tag	HWQ62_00293
+			protein_id	HWQ62_00293
+16989	17246	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00293
+			product	hypothetical protein
+			protein_id	HWQ62_00293
+17254	17598	gene
+			locus_tag	HWQ62_00294
+			protein_id	HWQ62_00294
+17254	17598	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00294
+			product	hypothetical protein
+			protein_id	HWQ62_00294
+17595	18218	gene
+			locus_tag	HWQ62_00295
+			protein_id	HWQ62_00295
+17595	18218	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00295
+			product	hypothetical protein
+			protein_id	HWQ62_00295
+18234	18611	gene
+			locus_tag	HWQ62_00296
+			protein_id	HWQ62_00296
+18234	18611	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00296
+			product	hypothetical protein
+			protein_id	HWQ62_00296
+18633	22100	gene
+			locus_tag	HWQ62_00297
+			protein_id	HWQ62_00297
+18633	22100	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00297
+			product	DNA-directed RNA polymerase subunit 2
+			protein_id	HWQ62_00297
+22110	22310	gene
+			locus_tag	HWQ62_00298
+			protein_id	HWQ62_00298
+22110	22310	CDS
+			codon_start	1
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	HWQ62_00298
+			product	hypothetical protein
+			protein_id	HWQ62_00298
+22722	22243	gene
+			locus_tag	HWQ62_00299
+			protein_id	HWQ62_00299
+22722	22243	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00299
+			product	hypothetical protein
+			protein_id	HWQ62_00299
+23276	22746	gene
+			locus_tag	HWQ62_00300
+			protein_id	HWQ62_00300
+23276	22746	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00300
+			product	hypothetical protein
+			protein_id	HWQ62_00300
+23538	23311	gene
+			locus_tag	HWQ62_00301
+			protein_id	HWQ62_00301
+23538	23311	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00301
+			product	hypothetical protein
+			protein_id	HWQ62_00301
+23790	23548	gene
+			locus_tag	HWQ62_00302
+			protein_id	HWQ62_00302
+23790	23548	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00302
+			product	hypothetical protein
+			protein_id	HWQ62_00302
+28192	23834	gene
+			locus_tag	HWQ62_00303
+			protein_id	HWQ62_00303
+28192	23834	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00303
+			product	hypothetical protein
+			protein_id	HWQ62_00303
+28917	28219	gene
+			locus_tag	HWQ62_00304
+			protein_id	HWQ62_00304
+28917	28219	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00304
+			product	hypothetical protein
+			protein_id	HWQ62_00304
+29149	28922	gene
+			locus_tag	HWQ62_00305
+			protein_id	HWQ62_00305
+29149	28922	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00305
+			product	hypothetical protein
+			protein_id	HWQ62_00305
+29190	30221	gene
+			locus_tag	HWQ62_00306
+			protein_id	HWQ62_00306
+29190	30221	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00306
+			product	hypothetical protein
+			protein_id	HWQ62_00306
+30228	30740	gene
+			locus_tag	HWQ62_00307
+			protein_id	HWQ62_00307
+30228	30740	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00307
+			product	hypothetical protein
+			protein_id	HWQ62_00307
+34870	30707	gene
+			locus_tag	HWQ62_00308
+			protein_id	HWQ62_00308
+34870	30707	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00308
+			product	hypothetical protein
+			protein_id	HWQ62_00308
+35994	34876	gene
+			locus_tag	HWQ62_00309
+			protein_id	HWQ62_00309
+35994	34876	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00309
+			product	hypothetical protein
+			protein_id	HWQ62_00309
+36067	36504	gene
+			locus_tag	HWQ62_00310
+			protein_id	HWQ62_00310
+36067	36504	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00310
+			product	hypothetical protein
+			protein_id	HWQ62_00310
+36507	36908	gene
+			locus_tag	HWQ62_00311
+			protein_id	HWQ62_00311
+36507	36908	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00311
+			product	hypothetical protein
+			protein_id	HWQ62_00311
+37021	37995	gene
+			locus_tag	HWQ62_00312
+			protein_id	HWQ62_00312
+37021	37995	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00312
+			product	hypothetical protein
+			protein_id	HWQ62_00312
+38011	38622	gene
+			locus_tag	HWQ62_00313
+			protein_id	HWQ62_00313
+38011	38622	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00313
+			product	hypothetical protein
+			protein_id	HWQ62_00313
+38637	39215	gene
+			locus_tag	HWQ62_00314
+			protein_id	HWQ62_00314
+38637	39215	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00314
+			product	hypothetical protein
+			protein_id	HWQ62_00314
+39245	39643	gene
+			locus_tag	HWQ62_00315
+			protein_id	HWQ62_00315
+39245	39643	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00315
+			product	hypothetical protein
+			protein_id	HWQ62_00315
+39664	40284	gene
+			locus_tag	HWQ62_00316
+			protein_id	HWQ62_00316
+39664	40284	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00316
+			product	hypothetical protein
+			protein_id	HWQ62_00316
+40684	40244	gene
+			locus_tag	HWQ62_00317
+			protein_id	HWQ62_00317
+40684	40244	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00317
+			product	hypothetical protein
+			protein_id	HWQ62_00317
+40757	42616	gene
+			locus_tag	HWQ62_00318
+			protein_id	HWQ62_00318
+40757	42616	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00318
+			product	putative protein L454
+			protein_id	HWQ62_00318
+42648	44159	gene
+			locus_tag	HWQ62_00319
+			protein_id	HWQ62_00319
+42648	44159	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00319
+			product	hypothetical protein
+			protein_id	HWQ62_00319
+44211	44444	gene
+			locus_tag	HWQ62_00320
+			protein_id	HWQ62_00320
+44211	44444	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00320
+			product	hypothetical protein
+			protein_id	HWQ62_00320
+44522	45340	gene
+			locus_tag	HWQ62_00321
+			protein_id	HWQ62_00321
+44522	45340	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00321
+			product	hypothetical protein
+			protein_id	HWQ62_00321
+46347	45364	gene
+			locus_tag	HWQ62_00322
+			protein_id	HWQ62_00322
+46347	45364	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00322
+			product	hypothetical protein
+			protein_id	HWQ62_00322
+46532	46401	gene
+			locus_tag	HWQ62_00323
+			protein_id	HWQ62_00323
+46532	46401	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00323
+			product	hypothetical protein
+			protein_id	HWQ62_00323
+47206	46550	gene
+			locus_tag	HWQ62_00324
+			protein_id	HWQ62_00324
+47206	46550	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00324
+			product	hypothetical protein
+			protein_id	HWQ62_00324
+47381	47292	gene
+			locus_tag	HWQ62_00325
+			protein_id	HWQ62_00325
+47381	47292	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00325
+			product	hypothetical protein
+			protein_id	HWQ62_00325
+47367	47456	gene
+			locus_tag	HWQ62_00326
+			protein_id	HWQ62_00326
+47367	47456	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00326
+			product	hypothetical protein
+			protein_id	HWQ62_00326
+47990	48598	gene
+			locus_tag	HWQ62_00327
+			protein_id	HWQ62_00327
+47990	48598	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00327
+			product	hypothetical protein
+			protein_id	HWQ62_00327
+49210	48608	gene
+			locus_tag	HWQ62_00328
+			protein_id	HWQ62_00328
+49210	48608	CDS
+			codon_start	1
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	HWQ62_00328
+			product	hypothetical protein
+			protein_id	HWQ62_00328
+50225	49365	gene
+			locus_tag	HWQ62_00329
+			protein_id	HWQ62_00329
+50225	49365	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00329
+			product	hypothetical protein
+			protein_id	HWQ62_00329
+50435	50322	gene
+			locus_tag	HWQ62_00330
+			protein_id	HWQ62_00330
+50435	50322	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00330
+			product	hypothetical protein
+			protein_id	HWQ62_00330
+50604	50479	gene
+			locus_tag	HWQ62_00331
+			protein_id	HWQ62_00331
+50604	50479	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00331
+			product	hypothetical protein
+			protein_id	HWQ62_00331
+51249	50782	gene
+			locus_tag	HWQ62_00332
+			protein_id	HWQ62_00332
+51249	50782	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00332
+			product	hypothetical protein
+			protein_id	HWQ62_00332
+51754	51401	gene
+			locus_tag	HWQ62_00333
+			protein_id	HWQ62_00333
+51754	51401	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00333
+			product	hypothetical protein
+			protein_id	HWQ62_00333
+51839	52024	gene
+			locus_tag	HWQ62_00334
+			protein_id	HWQ62_00334
+51839	52024	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00334
+			product	hypothetical protein
+			protein_id	HWQ62_00334
+>Features POV01B_5
+2810	>3	gene
+			locus_tag	HWQ62_00335
+			protein_id	HWQ62_00335
+2810	>3	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00335
+			product	hypothetical protein
+			protein_id	HWQ62_00335
+2896	3786	gene
+			locus_tag	HWQ62_00336
+			protein_id	HWQ62_00336
+2896	3786	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00336
+			product	hypothetical protein
+			protein_id	HWQ62_00336
+3831	4148	gene
+			locus_tag	HWQ62_00337
+			protein_id	HWQ62_00337
+3831	4148	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00337
+			product	hypothetical protein
+			protein_id	HWQ62_00337
+4193	5224	gene
+			locus_tag	HWQ62_00338
+			protein_id	HWQ62_00338
+4193	5224	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00338
+			product	hypothetical protein
+			protein_id	HWQ62_00338
+5247	5648	gene
+			locus_tag	HWQ62_00339
+			protein_id	HWQ62_00339
+5247	5648	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00339
+			product	hypothetical protein
+			protein_id	HWQ62_00339
+5733	6494	gene
+			locus_tag	HWQ62_00340
+			protein_id	HWQ62_00340
+5733	6494	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00340
+			product	hypothetical protein
+			protein_id	HWQ62_00340
+6509	7333	gene
+			locus_tag	HWQ62_00341
+			protein_id	HWQ62_00341
+6509	7333	CDS
+			codon_start	1
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	HWQ62_00341
+			product	hypothetical protein
+			protein_id	HWQ62_00341
+8679	7339	gene
+			locus_tag	HWQ62_00342
+			protein_id	HWQ62_00342
+8679	7339	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00342
+			product	hypothetical protein
+			protein_id	HWQ62_00342
+8798	9097	gene
+			locus_tag	HWQ62_00343
+			protein_id	HWQ62_00343
+8798	9097	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00343
+			product	hypothetical protein
+			protein_id	HWQ62_00343
+9960	9094	gene
+			locus_tag	HWQ62_00344
+			protein_id	HWQ62_00344
+9960	9094	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00344
+			product	hypothetical protein
+			protein_id	HWQ62_00344
+11009	10011	gene
+			locus_tag	HWQ62_00345
+			protein_id	HWQ62_00345
+11009	10011	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00345
+			product	putative protein R354
+			protein_id	HWQ62_00345
+11072	11554	gene
+			locus_tag	HWQ62_00346
+			protein_id	HWQ62_00346
+11072	11554	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00346
+			product	hypothetical protein
+			protein_id	HWQ62_00346
+11535	12119	gene
+			locus_tag	HWQ62_00347
+			protein_id	HWQ62_00347
+11535	12119	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00347
+			product	hypothetical protein
+			protein_id	HWQ62_00347
+15859	12224	gene
+			locus_tag	HWQ62_00348
+			protein_id	HWQ62_00348
+15859	12224	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00348
+			product	hypothetical protein
+			protein_id	HWQ62_00348
+21844	15908	gene
+			locus_tag	HWQ62_00349
+			protein_id	HWQ62_00349
+21844	15908	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00349
+			product	hypothetical protein
+			protein_id	HWQ62_00349
+23339	21906	gene
+			locus_tag	HWQ62_00350
+			protein_id	HWQ62_00350
+23339	21906	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00350
+			product	Thymidylate synthase
+			protein_id	HWQ62_00350
+23586	23368	gene
+			locus_tag	HWQ62_00351
+			protein_id	HWQ62_00351
+23586	23368	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00351
+			product	hypothetical protein
+			protein_id	HWQ62_00351
+23671	23744	gene
+			locus_tag	HWQ62_00352
+23671	23744	tRNA
+			inference	ab initio prediction:tRNAscan-SE
+			locus_tag	HWQ62_00352
+			note	tRNA-Asn(GTT)
+			product	tRNA-Asn
+24220	23810	gene
+			locus_tag	HWQ62_00353
+			protein_id	HWQ62_00353
+24220	23810	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00353
+			product	hypothetical protein
+			protein_id	HWQ62_00353
+24785	24282	gene
+			locus_tag	HWQ62_00354
+			protein_id	HWQ62_00354
+24785	24282	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00354
+			product	hypothetical protein
+			protein_id	HWQ62_00354
+24901	25455	gene
+			locus_tag	HWQ62_00355
+			protein_id	HWQ62_00355
+24901	25455	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00355
+			product	hypothetical protein
+			protein_id	HWQ62_00355
+25528	26064	gene
+			locus_tag	HWQ62_00356
+			protein_id	HWQ62_00356
+25528	26064	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00356
+			product	hypothetical protein
+			protein_id	HWQ62_00356
+26452	26057	gene
+			locus_tag	HWQ62_00357
+			protein_id	HWQ62_00357
+26452	26057	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00357
+			product	hypothetical protein
+			protein_id	HWQ62_00357
+26654	26526	gene
+			locus_tag	HWQ62_00358
+			protein_id	HWQ62_00358
+26654	26526	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00358
+			product	hypothetical protein
+			protein_id	HWQ62_00358
+26973	26779	gene
+			locus_tag	HWQ62_00359
+			protein_id	HWQ62_00359
+26973	26779	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00359
+			product	hypothetical protein
+			protein_id	HWQ62_00359
+27128	27012	gene
+			locus_tag	HWQ62_00360
+			protein_id	HWQ62_00360
+27128	27012	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00360
+			product	hypothetical protein
+			protein_id	HWQ62_00360
+27344	27201	gene
+			locus_tag	HWQ62_00361
+			protein_id	HWQ62_00361
+27344	27201	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00361
+			product	hypothetical protein
+			protein_id	HWQ62_00361
+27579	27481	gene
+			locus_tag	HWQ62_00362
+			protein_id	HWQ62_00362
+27579	27481	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00362
+			product	hypothetical protein
+			protein_id	HWQ62_00362
+36353	27843	gene
+			locus_tag	HWQ62_00363
+			protein_id	HWQ62_00363
+36353	27843	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00363
+			product	hypothetical protein
+			protein_id	HWQ62_00363
+37928	36456	gene
+			locus_tag	HWQ62_00364
+			protein_id	HWQ62_00364
+37928	36456	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00364
+			product	hypothetical protein
+			protein_id	HWQ62_00364
+38061	38624	gene
+			locus_tag	HWQ62_00365
+			protein_id	HWQ62_00365
+38061	38624	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00365
+			product	hypothetical protein
+			protein_id	HWQ62_00365
+38913	38632	gene
+			locus_tag	HWQ62_00366
+			protein_id	HWQ62_00366
+38913	38632	CDS
+			codon_start	1
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	HWQ62_00366
+			product	hypothetical protein
+			protein_id	HWQ62_00366
+38988	40379	gene
+			locus_tag	HWQ62_00367
+			protein_id	HWQ62_00367
+38988	40379	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00367
+			product	hypothetical protein
+			protein_id	HWQ62_00367
+40826	40365	gene
+			locus_tag	HWQ62_00368
+			protein_id	HWQ62_00368
+40826	40365	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00368
+			product	hypothetical protein
+			protein_id	HWQ62_00368
+41081	40965	gene
+			locus_tag	HWQ62_00369
+			protein_id	HWQ62_00369
+41081	40965	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00369
+			product	hypothetical protein
+			protein_id	HWQ62_00369
+41215	41448	gene
+			locus_tag	HWQ62_00370
+			protein_id	HWQ62_00370
+41215	41448	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00370
+			product	hypothetical protein
+			protein_id	HWQ62_00370
+41521	42036	gene
+			locus_tag	HWQ62_00371
+			protein_id	HWQ62_00371
+41521	42036	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00371
+			product	hypothetical protein
+			protein_id	HWQ62_00371
+42828	42169	gene
+			locus_tag	HWQ62_00372
+			protein_id	HWQ62_00372
+42828	42169	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00372
+			product	hypothetical protein
+			protein_id	HWQ62_00372
+43368	42859	gene
+			locus_tag	HWQ62_00373
+			protein_id	HWQ62_00373
+43368	42859	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00373
+			product	hypothetical protein
+			protein_id	HWQ62_00373
+44192	43446	gene
+			locus_tag	HWQ62_00374
+			protein_id	HWQ62_00374
+44192	43446	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00374
+			product	hypothetical protein
+			protein_id	HWQ62_00374
+44473	44318	gene
+			locus_tag	HWQ62_00375
+			protein_id	HWQ62_00375
+44473	44318	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00375
+			product	hypothetical protein
+			protein_id	HWQ62_00375
+44855	44562	gene
+			locus_tag	HWQ62_00376
+			protein_id	HWQ62_00376
+44855	44562	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00376
+			product	hypothetical protein
+			protein_id	HWQ62_00376
+44931	45095	gene
+			locus_tag	HWQ62_00377
+			protein_id	HWQ62_00377
+44931	45095	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00377
+			product	hypothetical protein
+			protein_id	HWQ62_00377
+45409	45080	gene
+			locus_tag	HWQ62_00378
+			protein_id	HWQ62_00378
+45409	45080	CDS
+			codon_start	1
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	HWQ62_00378
+			product	hypothetical protein
+			protein_id	HWQ62_00378
+45534	46154	gene
+			locus_tag	HWQ62_00379
+			protein_id	HWQ62_00379
+45534	46154	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00379
+			product	hypothetical protein
+			protein_id	HWQ62_00379
+46205	46498	gene
+			locus_tag	HWQ62_00380
+			protein_id	HWQ62_00380
+46205	46498	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00380
+			product	hypothetical protein
+			protein_id	HWQ62_00380
+46670	48025	gene
+			locus_tag	HWQ62_00381
+			protein_id	HWQ62_00381
+46670	48025	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00381
+			product	hypothetical protein
+			protein_id	HWQ62_00381
+<48422	48243	gene
+			locus_tag	HWQ62_00382
+			protein_id	HWQ62_00382
+<48422	48243	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00382
+			product	hypothetical protein
+			protein_id	HWQ62_00382
+>Features POV01B_6
+40	798	gene
+			locus_tag	HWQ62_00383
+			protein_id	HWQ62_00383
+40	798	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00383
+			product	hypothetical protein
+			protein_id	HWQ62_00383
+2923	803	gene
+			locus_tag	HWQ62_00384
+			protein_id	HWQ62_00384
+2923	803	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00384
+			product	hypothetical protein
+			protein_id	HWQ62_00384
+5651	3063	gene
+			locus_tag	HWQ62_00385
+			protein_id	HWQ62_00385
+5651	3063	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00385
+			product	hypothetical protein
+			protein_id	HWQ62_00385
+5694	6545	gene
+			locus_tag	HWQ62_00386
+			protein_id	HWQ62_00386
+5694	6545	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00386
+			product	hypothetical protein
+			protein_id	HWQ62_00386
+8291	6525	gene
+			locus_tag	HWQ62_00387
+			protein_id	HWQ62_00387
+8291	6525	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00387
+			product	hypothetical protein
+			protein_id	HWQ62_00387
+8341	9162	gene
+			locus_tag	HWQ62_00388
+			protein_id	HWQ62_00388
+8341	9162	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00388
+			product	hypothetical protein
+			protein_id	HWQ62_00388
+9265	9684	gene
+			locus_tag	HWQ62_00389
+			protein_id	HWQ62_00389
+9265	9684	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00389
+			product	hypothetical protein
+			protein_id	HWQ62_00389
+12357	9664	gene
+			locus_tag	HWQ62_00390
+			protein_id	HWQ62_00390
+12357	9664	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00390
+			product	hypothetical protein
+			protein_id	HWQ62_00390
+13490	12456	gene
+			locus_tag	HWQ62_00391
+			protein_id	HWQ62_00391
+13490	12456	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00391
+			product	hypothetical protein
+			protein_id	HWQ62_00391
+14302	13619	gene
+			locus_tag	HWQ62_00392
+			protein_id	HWQ62_00392
+14302	13619	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00392
+			product	hypothetical protein
+			protein_id	HWQ62_00392
+14529	15365	gene
+			locus_tag	HWQ62_00393
+			protein_id	HWQ62_00393
+14529	15365	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00393
+			product	hypothetical protein
+			protein_id	HWQ62_00393
+15429	16280	gene
+			locus_tag	HWQ62_00394
+			protein_id	HWQ62_00394
+15429	16280	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00394
+			product	hypothetical protein
+			protein_id	HWQ62_00394
+16350	17213	gene
+			locus_tag	HWQ62_00395
+			protein_id	HWQ62_00395
+16350	17213	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00395
+			product	hypothetical protein
+			protein_id	HWQ62_00395
+17344	17270	gene
+			locus_tag	HWQ62_00396
+17344	17270	tRNA
+			inference	ab initio prediction:tRNAscan-SE
+			locus_tag	HWQ62_00396
+			note	tRNA-Thr(TGT)
+			product	tRNA-Thr
+17405	17390	gene
+			locus_tag	HWQ62_00397
+17442	17405	tRNA
+17390	17353
+			inference	ab initio prediction:tRNAscan-SE
+			locus_tag	HWQ62_00397
+			note	tRNA-Tyr(GTA)
+			product	tRNA-Tyr
+17935	17510	gene
+			locus_tag	HWQ62_00398
+			protein_id	HWQ62_00398
+17935	17510	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00398
+			product	hypothetical protein
+			protein_id	HWQ62_00398
+18161	18243	gene
+			locus_tag	HWQ62_00399
+18161	18243	tRNA
+			inference	ab initio prediction:tRNAscan-SE
+			locus_tag	HWQ62_00399
+			note	tRNA-Leu(CAA)
+			product	tRNA-Leu
+18378	18460	gene
+			locus_tag	HWQ62_00400
+18378	18460	tRNA
+			inference	ab initio prediction:tRNAscan-SE
+			locus_tag	HWQ62_00400
+			note	tRNA-Leu(TAA)
+			product	tRNA-Leu
+18574	20118	gene
+			locus_tag	HWQ62_00401
+			protein_id	HWQ62_00401
+18574	20118	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00401
+			product	hypothetical protein
+			protein_id	HWQ62_00401
+20219	21148	gene
+			locus_tag	HWQ62_00402
+			protein_id	HWQ62_00402
+20219	21148	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00402
+			product	hypothetical protein
+			protein_id	HWQ62_00402
+21482	21156	gene
+			locus_tag	HWQ62_00403
+			protein_id	HWQ62_00403
+21482	21156	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00403
+			product	hypothetical protein
+			protein_id	HWQ62_00403
+21710	23137	gene
+			locus_tag	HWQ62_00404
+			protein_id	HWQ62_00404
+21710	23137	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00404
+			product	hypothetical protein
+			protein_id	HWQ62_00404
+23324	24649	gene
+			locus_tag	HWQ62_00405
+			protein_id	HWQ62_00405
+23324	24649	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00405
+			product	hypothetical protein
+			protein_id	HWQ62_00405
+25160	26557	gene
+			locus_tag	HWQ62_00406
+			protein_id	HWQ62_00406
+25160	26557	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00406
+			product	hypothetical protein
+			protein_id	HWQ62_00406
+26825	28300	gene
+			locus_tag	HWQ62_00407
+			protein_id	HWQ62_00407
+26825	28300	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00407
+			product	hypothetical protein
+			protein_id	HWQ62_00407
+28763	28359	gene
+			locus_tag	HWQ62_00408
+			protein_id	HWQ62_00408
+28763	28359	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00408
+			product	hypothetical protein
+			protein_id	HWQ62_00408
+>Features POV01B_7
+15	377	gene
+			locus_tag	HWQ62_00409
+			protein_id	HWQ62_00409
+15	377	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00409
+			product	hypothetical protein
+			protein_id	HWQ62_00409
+1158	403	gene
+			locus_tag	HWQ62_00410
+			protein_id	HWQ62_00410
+1158	403	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00410
+			product	hypothetical protein
+			protein_id	HWQ62_00410
+1275	3122	gene
+			locus_tag	HWQ62_00411
+			protein_id	HWQ62_00411
+1275	3122	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00411
+			product	hypothetical protein
+			protein_id	HWQ62_00411
+3323	3138	gene
+			locus_tag	HWQ62_00412
+			protein_id	HWQ62_00412
+3323	3138	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00412
+			product	hypothetical protein
+			protein_id	HWQ62_00412
+3416	4186	gene
+			locus_tag	HWQ62_00413
+			protein_id	HWQ62_00413
+3416	4186	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00413
+			product	hypothetical protein
+			protein_id	HWQ62_00413
+4254	4655	gene
+			locus_tag	HWQ62_00414
+			protein_id	HWQ62_00414
+4254	4655	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00414
+			product	hypothetical protein
+			protein_id	HWQ62_00414
+4728	5213	gene
+			locus_tag	HWQ62_00415
+			protein_id	HWQ62_00415
+4728	5213	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00415
+			product	hypothetical protein
+			protein_id	HWQ62_00415
+5416	5219	gene
+			locus_tag	HWQ62_00416
+			protein_id	HWQ62_00416
+5416	5219	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00416
+			product	hypothetical protein
+			protein_id	HWQ62_00416
+6047	5508	gene
+			locus_tag	HWQ62_00417
+			protein_id	HWQ62_00417
+6047	5508	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00417
+			product	hypothetical protein
+			protein_id	HWQ62_00417
+6523	6095	gene
+			locus_tag	HWQ62_00418
+			protein_id	HWQ62_00418
+6523	6095	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00418
+			product	hypothetical protein
+			protein_id	HWQ62_00418
+6884	7912	gene
+			locus_tag	HWQ62_00419
+			protein_id	HWQ62_00419
+6884	7912	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00419
+			product	hypothetical protein
+			protein_id	HWQ62_00419
+7961	9697	gene
+			locus_tag	HWQ62_00420
+			protein_id	HWQ62_00420
+7961	9697	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00420
+			product	hypothetical protein
+			protein_id	HWQ62_00420
+9908	10840	gene
+			locus_tag	HWQ62_00421
+			protein_id	HWQ62_00421
+9908	10840	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00421
+			product	hypothetical protein
+			protein_id	HWQ62_00421
+11046	11495	gene
+			locus_tag	HWQ62_00422
+			protein_id	HWQ62_00422
+11046	11495	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00422
+			product	hypothetical protein
+			protein_id	HWQ62_00422
+11661	12425	gene
+			locus_tag	HWQ62_00423
+			protein_id	HWQ62_00423
+11661	12425	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00423
+			product	hypothetical protein
+			protein_id	HWQ62_00423
+12580	12804	gene
+			locus_tag	HWQ62_00424
+			protein_id	HWQ62_00424
+12580	12804	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00424
+			product	hypothetical protein
+			protein_id	HWQ62_00424
+13122	12811	gene
+			locus_tag	HWQ62_00425
+			protein_id	HWQ62_00425
+13122	12811	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00425
+			product	hypothetical protein
+			protein_id	HWQ62_00425
+13244	13573	gene
+			locus_tag	HWQ62_00426
+			protein_id	HWQ62_00426
+13244	13573	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00426
+			product	hypothetical protein
+			protein_id	HWQ62_00426
+13610	13792	gene
+			locus_tag	HWQ62_00427
+			protein_id	HWQ62_00427
+13610	13792	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00427
+			product	hypothetical protein
+			protein_id	HWQ62_00427
+13836	17678	gene
+			locus_tag	HWQ62_00428
+			protein_id	HWQ62_00428
+13836	17678	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00428
+			product	hypothetical protein
+			protein_id	HWQ62_00428
+17828	18106	gene
+			locus_tag	HWQ62_00429
+			protein_id	HWQ62_00429
+17828	18106	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00429
+			product	hypothetical protein
+			protein_id	HWQ62_00429
+18533	18114	gene
+			locus_tag	HWQ62_00430
+			protein_id	HWQ62_00430
+18533	18114	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00430
+			product	hypothetical protein
+			protein_id	HWQ62_00430
+19102	18605	gene
+			locus_tag	HWQ62_00431
+			protein_id	HWQ62_00431
+19102	18605	CDS
+			codon_start	1
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	HWQ62_00431
+			product	hypothetical protein
+			protein_id	HWQ62_00431
+19817	19209	gene
+			locus_tag	HWQ62_00432
+			protein_id	HWQ62_00432
+19817	19209	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00432
+			product	hypothetical protein
+			protein_id	HWQ62_00432
+20440	21174	gene
+			locus_tag	HWQ62_00433
+			protein_id	HWQ62_00433
+20440	21174	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00433
+			product	hypothetical protein
+			protein_id	HWQ62_00433
+22149	21289	gene
+			locus_tag	HWQ62_00434
+			protein_id	HWQ62_00434
+22149	21289	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00434
+			product	hypothetical protein
+			protein_id	HWQ62_00434
+22573	22280	gene
+			locus_tag	HWQ62_00435
+			protein_id	HWQ62_00435
+22573	22280	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00435
+			product	hypothetical protein
+			protein_id	HWQ62_00435
+23052	22672	gene
+			locus_tag	HWQ62_00436
+			protein_id	HWQ62_00436
+23052	22672	CDS
+			codon_start	1
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	HWQ62_00436
+			product	hypothetical protein
+			protein_id	HWQ62_00436
+23746	23096	gene
+			locus_tag	HWQ62_00437
+			protein_id	HWQ62_00437
+23746	23096	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00437
+			product	hypothetical protein
+			protein_id	HWQ62_00437
+23922	24071	gene
+			locus_tag	HWQ62_00438
+			protein_id	HWQ62_00438
+23922	24071	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00438
+			product	hypothetical protein
+			protein_id	HWQ62_00438
+24184	24444	gene
+			locus_tag	HWQ62_00439
+			protein_id	HWQ62_00439
+24184	24444	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00439
+			product	hypothetical protein
+			protein_id	HWQ62_00439
+24550	24879	gene
+			locus_tag	HWQ62_00440
+			protein_id	HWQ62_00440
+24550	24879	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00440
+			product	hypothetical protein
+			protein_id	HWQ62_00440
+24918	27977	gene
+			locus_tag	HWQ62_00441
+			protein_id	HWQ62_00441
+24918	27977	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00441
+			product	hypothetical protein
+			protein_id	HWQ62_00441
+>Features POV01B_8
+1915	848	gene
+			locus_tag	HWQ62_00442
+			protein_id	HWQ62_00442
+1915	848	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00442
+			product	hypothetical protein
+			protein_id	HWQ62_00442
+3843	2128	gene
+			locus_tag	HWQ62_00443
+			protein_id	HWQ62_00443
+3843	2128	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00443
+			product	hypothetical protein
+			protein_id	HWQ62_00443
+5300	4434	gene
+			locus_tag	HWQ62_00444
+			protein_id	HWQ62_00444
+5300	4434	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00444
+			product	hypothetical protein
+			protein_id	HWQ62_00444
+5799	6467	gene
+			locus_tag	HWQ62_00445
+			protein_id	HWQ62_00445
+5799	6467	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00445
+			product	hypothetical protein
+			protein_id	HWQ62_00445
+7004	7555	gene
+			locus_tag	HWQ62_00446
+			protein_id	HWQ62_00446
+7004	7555	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00446
+			product	hypothetical protein
+			protein_id	HWQ62_00446
+8984	8505	gene
+			locus_tag	HWQ62_00447
+			protein_id	HWQ62_00447
+8984	8505	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00447
+			product	hypothetical protein
+			protein_id	HWQ62_00447
+9926	9039	gene
+			locus_tag	HWQ62_00448
+			protein_id	HWQ62_00448
+9926	9039	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00448
+			product	Tyrosine-protein kinase transforming protein Abl
+			protein_id	HWQ62_00448
+11557	10778	gene
+			locus_tag	HWQ62_00449
+			protein_id	HWQ62_00449
+11557	10778	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00449
+			product	hypothetical protein
+			protein_id	HWQ62_00449
+11813	13429	gene
+			locus_tag	HWQ62_00450
+			protein_id	HWQ62_00450
+11813	13429	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00450
+			product	hypothetical protein
+			protein_id	HWQ62_00450
+14045	13515	gene
+			locus_tag	HWQ62_00451
+			protein_id	HWQ62_00451
+14045	13515	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00451
+			product	hypothetical protein
+			protein_id	HWQ62_00451
+14861	14178	gene
+			locus_tag	HWQ62_00452
+			protein_id	HWQ62_00452
+14861	14178	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00452
+			product	hypothetical protein
+			protein_id	HWQ62_00452
+15486	14899	gene
+			locus_tag	HWQ62_00453
+			protein_id	HWQ62_00453
+15486	14899	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00453
+			product	hypothetical protein
+			protein_id	HWQ62_00453
+15990	15550	gene
+			locus_tag	HWQ62_00454
+			protein_id	HWQ62_00454
+15990	15550	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00454
+			product	hypothetical protein
+			protein_id	HWQ62_00454
+17667	16261	gene
+			locus_tag	HWQ62_00455
+			protein_id	HWQ62_00455
+17667	16261	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00455
+			product	hypothetical protein
+			protein_id	HWQ62_00455
+18270	17812	gene
+			locus_tag	HWQ62_00456
+			protein_id	HWQ62_00456
+18270	17812	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00456
+			product	hypothetical protein
+			protein_id	HWQ62_00456
+18597	18773	gene
+			locus_tag	HWQ62_00457
+			protein_id	HWQ62_00457
+18597	18773	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00457
+			product	hypothetical protein
+			protein_id	HWQ62_00457
+18930	18709	gene
+			locus_tag	HWQ62_00458
+			protein_id	HWQ62_00458
+18930	18709	CDS
+			codon_start	1
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	HWQ62_00458
+			product	hypothetical protein
+			protein_id	HWQ62_00458
+19828	19082	gene
+			locus_tag	HWQ62_00459
+			protein_id	HWQ62_00459
+19828	19082	CDS
+			codon_start	1
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	HWQ62_00459
+			product	hypothetical protein
+			protein_id	HWQ62_00459
+19975	19862	gene
+			locus_tag	HWQ62_00460
+			protein_id	HWQ62_00460
+19975	19862	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00460
+			product	hypothetical protein
+			protein_id	HWQ62_00460
+21419	20010	gene
+			locus_tag	HWQ62_00461
+			protein_id	HWQ62_00461
+21419	20010	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00461
+			product	hypothetical protein
+			protein_id	HWQ62_00461
+21672	21851	gene
+			locus_tag	HWQ62_00462
+			protein_id	HWQ62_00462
+21672	21851	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00462
+			product	hypothetical protein
+			protein_id	HWQ62_00462
+21981	22712	gene
+			locus_tag	HWQ62_00463
+			protein_id	HWQ62_00463
+21981	22712	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00463
+			product	hypothetical protein
+			protein_id	HWQ62_00463
+24165	22798	gene
+			locus_tag	HWQ62_00464
+			protein_id	HWQ62_00464
+24165	22798	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00464
+			product	hypothetical protein
+			protein_id	HWQ62_00464
+24306	24989	gene
+			locus_tag	HWQ62_00465
+			protein_id	HWQ62_00465
+24306	24989	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00465
+			product	hypothetical protein
+			protein_id	HWQ62_00465
+25437	25195	gene
+			locus_tag	HWQ62_00466
+			protein_id	HWQ62_00466
+25437	25195	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00466
+			product	hypothetical protein
+			protein_id	HWQ62_00466
+26017	25541	gene
+			locus_tag	HWQ62_00467
+			protein_id	HWQ62_00467
+26017	25541	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00467
+			product	hypothetical protein
+			protein_id	HWQ62_00467
+26134	26964	gene
+			locus_tag	HWQ62_00468
+			protein_id	HWQ62_00468
+26134	26964	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00468
+			product	hypothetical protein
+			protein_id	HWQ62_00468
+27203	27502	gene
+			locus_tag	HWQ62_00469
+			protein_id	HWQ62_00469
+27203	27502	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00469
+			product	hypothetical protein
+			protein_id	HWQ62_00469
+>Features POV01B_9
+<1	495	gene
+			locus_tag	HWQ62_00470
+			protein_id	HWQ62_00470
+<1	495	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00470
+			product	hypothetical protein
+			protein_id	HWQ62_00470
+1264	665	gene
+			locus_tag	HWQ62_00471
+			protein_id	HWQ62_00471
+1264	665	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00471
+			product	hypothetical protein
+			protein_id	HWQ62_00471
+2054	1422	gene
+			locus_tag	HWQ62_00472
+			protein_id	HWQ62_00472
+2054	1422	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00472
+			product	hypothetical protein
+			protein_id	HWQ62_00472
+3208	2111	gene
+			locus_tag	HWQ62_00473
+			protein_id	HWQ62_00473
+3208	2111	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00473
+			product	hypothetical protein
+			protein_id	HWQ62_00473
+4604	3519	gene
+			locus_tag	HWQ62_00474
+			protein_id	HWQ62_00474
+4604	3519	CDS
+			codon_start	1
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	HWQ62_00474
+			product	hypothetical protein
+			protein_id	HWQ62_00474
+4727	4825	gene
+			locus_tag	HWQ62_00475
+			protein_id	HWQ62_00475
+4727	4825	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00475
+			product	hypothetical protein
+			protein_id	HWQ62_00475
+4822	5067	gene
+			locus_tag	HWQ62_00476
+			protein_id	HWQ62_00476
+4822	5067	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00476
+			product	hypothetical protein
+			protein_id	HWQ62_00476
+5202	5774	gene
+			locus_tag	HWQ62_00477
+			protein_id	HWQ62_00477
+5202	5774	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00477
+			product	hypothetical protein
+			protein_id	HWQ62_00477
+5922	6128	gene
+			locus_tag	HWQ62_00478
+			protein_id	HWQ62_00478
+5922	6128	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00478
+			product	hypothetical protein
+			protein_id	HWQ62_00478
+6128	6388	gene
+			locus_tag	HWQ62_00479
+			protein_id	HWQ62_00479
+6128	6388	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00479
+			product	hypothetical protein
+			protein_id	HWQ62_00479
+9953	6372	gene
+			locus_tag	HWQ62_00480
+			protein_id	HWQ62_00480
+9953	6372	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00480
+			product	hypothetical protein
+			protein_id	HWQ62_00480
+10096	10776	gene
+			locus_tag	HWQ62_00481
+			protein_id	HWQ62_00481
+10096	10776	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00481
+			product	hypothetical protein
+			protein_id	HWQ62_00481
+11125	11214	gene
+			locus_tag	HWQ62_00482
+			protein_id	HWQ62_00482
+11125	11214	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00482
+			product	hypothetical protein
+			protein_id	HWQ62_00482
+11211	11750	gene
+			locus_tag	HWQ62_00483
+			protein_id	HWQ62_00483
+11211	11750	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00483
+			product	hypothetical protein
+			protein_id	HWQ62_00483
+11994	15767	gene
+			locus_tag	HWQ62_00484
+			protein_id	HWQ62_00484
+11994	15767	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00484
+			product	hypothetical protein
+			protein_id	HWQ62_00484
+15939	16049	gene
+			locus_tag	HWQ62_00485
+			protein_id	HWQ62_00485
+15939	16049	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00485
+			product	hypothetical protein
+			protein_id	HWQ62_00485
+16175	16528	gene
+			locus_tag	HWQ62_00486
+			protein_id	HWQ62_00486
+16175	16528	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00486
+			product	hypothetical protein
+			protein_id	HWQ62_00486
+16578	19736	gene
+			locus_tag	HWQ62_00487
+			protein_id	HWQ62_00487
+16578	19736	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00487
+			product	hypothetical protein
+			protein_id	HWQ62_00487
+20784	20218	gene
+			locus_tag	HWQ62_00488
+			protein_id	HWQ62_00488
+20784	20218	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00488
+			product	hypothetical protein
+			protein_id	HWQ62_00488
+21652	20948	gene
+			locus_tag	HWQ62_00489
+			protein_id	HWQ62_00489
+21652	20948	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00489
+			product	hypothetical protein
+			protein_id	HWQ62_00489
+22268	22152	gene
+			locus_tag	HWQ62_00490
+			protein_id	HWQ62_00490
+22268	22152	CDS
+			codon_start	1
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	HWQ62_00490
+			product	hypothetical protein
+			protein_id	HWQ62_00490
+22399	22268	gene
+			locus_tag	HWQ62_00491
+			protein_id	HWQ62_00491
+22399	22268	CDS
+			codon_start	1
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	HWQ62_00491
+			product	hypothetical protein
+			protein_id	HWQ62_00491
+>Features POV01B_10
+244	>2	gene
+			locus_tag	HWQ62_00492
+			protein_id	HWQ62_00492
+244	>2	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00492
+			product	hypothetical protein
+			protein_id	HWQ62_00492
+505	365	gene
+			locus_tag	HWQ62_00493
+			protein_id	HWQ62_00493
+505	365	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00493
+			product	hypothetical protein
+			protein_id	HWQ62_00493
+589	1032	gene
+			locus_tag	HWQ62_00494
+			protein_id	HWQ62_00494
+589	1032	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00494
+			product	hypothetical protein
+			protein_id	HWQ62_00494
+1125	2315	gene
+			locus_tag	HWQ62_00495
+			protein_id	HWQ62_00495
+1125	2315	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00495
+			product	hypothetical protein
+			protein_id	HWQ62_00495
+3049	2312	gene
+			locus_tag	HWQ62_00496
+			protein_id	HWQ62_00496
+3049	2312	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00496
+			product	hypothetical protein
+			protein_id	HWQ62_00496
+3229	3426	gene
+			locus_tag	HWQ62_00497
+			protein_id	HWQ62_00497
+3229	3426	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00497
+			product	hypothetical protein
+			protein_id	HWQ62_00497
+4702	3470	gene
+			locus_tag	HWQ62_00498
+			protein_id	HWQ62_00498
+4702	3470	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00498
+			product	hypothetical protein
+			protein_id	HWQ62_00498
+4853	5020	gene
+			locus_tag	HWQ62_00499
+			protein_id	HWQ62_00499
+4853	5020	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00499
+			product	hypothetical protein
+			protein_id	HWQ62_00499
+5204	7327	gene
+			locus_tag	HWQ62_00500
+			protein_id	HWQ62_00500
+5204	7327	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00500
+			product	hypothetical protein
+			protein_id	HWQ62_00500
+7463	8221	gene
+			locus_tag	HWQ62_00501
+			protein_id	HWQ62_00501
+7463	8221	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00501
+			product	hypothetical protein
+			protein_id	HWQ62_00501
+8922	8356	gene
+			locus_tag	HWQ62_00502
+			protein_id	HWQ62_00502
+8922	8356	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00502
+			product	hypothetical protein
+			protein_id	HWQ62_00502
+9165	8992	gene
+			locus_tag	HWQ62_00503
+			protein_id	HWQ62_00503
+9165	8992	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00503
+			product	hypothetical protein
+			protein_id	HWQ62_00503
+9340	9645	gene
+			locus_tag	HWQ62_00504
+			protein_id	HWQ62_00504
+9340	9645	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00504
+			product	hypothetical protein
+			protein_id	HWQ62_00504
+9680	10135	gene
+			locus_tag	HWQ62_00505
+			protein_id	HWQ62_00505
+9680	10135	CDS
+			codon_start	1
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	HWQ62_00505
+			product	hypothetical protein
+			protein_id	HWQ62_00505
+10143	11186	gene
+			locus_tag	HWQ62_00506
+			protein_id	HWQ62_00506
+10143	11186	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00506
+			product	hypothetical protein
+			protein_id	HWQ62_00506
+11351	11223	gene
+			locus_tag	HWQ62_00507
+			protein_id	HWQ62_00507
+11351	11223	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00507
+			product	hypothetical protein
+			protein_id	HWQ62_00507
+11495	11746	gene
+			locus_tag	HWQ62_00508
+			protein_id	HWQ62_00508
+11495	11746	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00508
+			product	hypothetical protein
+			protein_id	HWQ62_00508
+11793	12098	gene
+			locus_tag	HWQ62_00509
+			protein_id	HWQ62_00509
+11793	12098	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00509
+			product	hypothetical protein
+			protein_id	HWQ62_00509
+12258	13169	gene
+			locus_tag	HWQ62_00510
+			protein_id	HWQ62_00510
+12258	13169	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00510
+			product	hypothetical protein
+			protein_id	HWQ62_00510
+13230	13832	gene
+			locus_tag	HWQ62_00511
+			protein_id	HWQ62_00511
+13230	13832	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00511
+			product	hypothetical protein
+			protein_id	HWQ62_00511
+14224	13841	gene
+			locus_tag	HWQ62_00512
+			protein_id	HWQ62_00512
+14224	13841	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00512
+			product	hypothetical protein
+			protein_id	HWQ62_00512
+14995	14231	gene
+			locus_tag	HWQ62_00513
+			protein_id	HWQ62_00513
+14995	14231	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00513
+			product	hypothetical protein
+			protein_id	HWQ62_00513
+15238	15471	gene
+			locus_tag	HWQ62_00514
+			protein_id	HWQ62_00514
+15238	15471	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00514
+			product	hypothetical protein
+			protein_id	HWQ62_00514
+15935	15645	gene
+			locus_tag	HWQ62_00515
+			protein_id	HWQ62_00515
+15935	15645	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00515
+			product	hypothetical protein
+			protein_id	HWQ62_00515
+16701	16192	gene
+			locus_tag	HWQ62_00516
+			protein_id	HWQ62_00516
+16701	16192	CDS
+			codon_start	1
+			inference	protein motif:InterPro:IPR001214
+			locus_tag	HWQ62_00516
+			product	SET domain-containing protein
+			protein_id	HWQ62_00516
+<17613	17467	gene
+			locus_tag	HWQ62_00517
+			protein_id	HWQ62_00517
+<17613	17467	CDS
+			inference	ab initio prediction:GeneMark.hmm
+			locus_tag	HWQ62_00517
+			product	hypothetical protein
+			protein_id	HWQ62_00517

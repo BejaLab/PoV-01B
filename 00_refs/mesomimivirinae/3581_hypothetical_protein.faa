@@ -1,0 +1,16 @@
+>ID:QDY52219.1 |[Mimiviridae sp. ChoanoV1]||hypothetical protein|285|MK250089(82017):13315-13599:1 ^^ Mimiviridae sp. ChoanoV1 genomic sequence.|neighbours:ID:QDY52218.1(1),ID:QDY52220.1(-1)|neighbour_genes:hypothetical protein,ABC transporter| | aligned:15-90 (94)
+MNSLIDSSKLSAQAMEVLKRFFKYLVEGLMVAIAAYVFPRKKMNPDEVLMIAVVASATFAILDMYAPTIGHTARQGAGFGIGASLVGFPGKPLF
+>ID:ALH23108.1 |[Chrysochromulina ericina virus]||hypothetical protein|264|KT820662(473558):186862-187125:-1 ^^ Chrysochromulina ericina virus isolate CeV-01B, complete genome.|neighbours:ID:ALH23107.1(1),ID:ALH23109.1(1)|neighbour_genes:RING-finger domain c..,hypothetical protein| | aligned:3-87 (87)
+MSLGGFLDLGELVKRALKYFVEGLIVALAAYVIPSKRLRLDETLLIALVAAATFSILDTYLPSLAVSARSGAGFGIGANLVSFPHGL
+>ID:ADX05936.1 |[Organic Lake phycodnavirus 1]||hypothetical protein|249|HQ704802(344723):133371-133619:1 ^^ Organic Lake phycodnavirus 1 genomic sequence.|neighbours:ID:ADX05935.1(-1),ID:ADX05937.1(-1)|neighbour_genes:hypothetical protein,putative Poxvirus re..| | aligned:1-82 (82)
+MLNFRELLKRVIKYLVEGLMVSIAAYAIPKQSLKLDEIVLIALVAAATFSVLDTYLPTMGTNARTGAGFGIGANLVGFPGGL
+>ID:ADX06361.1 |[Organic Lake phycodnavirus 2]||hypothetical protein|249|HQ704803(282077):146262-146510:1 ^^ Organic Lake phycodnavirus 2 genomic sequence.|neighbours:ID:ADX06362.1(-1),ID:ADX06360.1(-1)|neighbour_genes:hypothetical protein,putative Poxvirus re..| | aligned:1-82 (82)
+MLNVKELIKRVIKYLVEGLMVSIAAYAIPKQSLKLDEIVLIALVAAATFSILDTYIPTMGANARTGAGFGIGANLVGFPGGL
+>ID:AGM15380.1 |[Phaeocystis globosa virus]|16T|hypothetical protein|255|KC662249(459984):92270-92524:1 ^^ Phaeocystis globosa virus strain 16T, complete genome.|neighbours:ID:AGM15379.1(-1),ID:AGM15381.1(1)|neighbour_genes:hypothetical protein,GIY-YIG superfamily ..| | aligned:1-82 (84)
+MNPAMGELVKRAVKYLVEGIMVAIVAFVIPPEKRALKYEEIATIALMAAATFSILDTFTPSIGASARSGAGMGIGANMVGFPVL
+>ID:AUF82712.1 |[Tetraselmis virus 1]||hypothetical protein|276|KY322437(668031):641526-641801:-1 ^^ Tetraselmis virus 1, complete genome.|neighbours:ID:AUF82711.1(1),ID:AUF82713.1(1)|neighbour_genes:hypothetical protein,hypothetical protein| | aligned:3-90 (91)
+MRFDLQAALIRLAKYLLEGSTVGFAAYFIPSKKPSLEEVLLVAVVAAATFSVIDLFTSFAGETNYGDELRRSVRTGAGFGMGANLAGFPRA
+>ID:BAT21942.1 |[Yellowstone lake mimivirus]||hypothetical protein|288|LC015646(73689):10561-10848:-1 ^^ Yellowstone lake mimivirus DNA, complete genome, isolate: 1.|neighbours:ID:BAT21941.1(1),ID:BAT21943.1(1)|neighbour_genes:putative late transc..,hypothetical protein| | aligned:14-93 (95)
+MQVFFLLFNIMNGLNGLVNVNELIKRIIKYLVQGLMVAIVAFAIPKKSLNLDEIAIISLTAAATFSILDTFLPSMASPARFGAGFSIGSKLVGGL
+>ID:QFG75108.1 |[Megaviridae environmental sample]||hypothetical protein|249|MN448299(67423):13985-14233:1 ^^ Megaviridae environmental sample isolate oPacV-421 clone oPacV-421_c10 genomic sequence.|neighbours:ID:QFG75107.1(-1),ID:QFG75109.1(-1)|neighbour_genes:hypothetical protein,hypothetical protein| | aligned:1-81 (82)
+MNNPVLEIVKRALKYLVEGLMVALAAYTIPKKSLHVDEIVLIALTAAATFSILDTYVPSMAESARGGAGFGIGANLVGFPRM

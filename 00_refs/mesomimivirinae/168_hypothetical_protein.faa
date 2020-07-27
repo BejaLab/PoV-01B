@@ -1,0 +1,14 @@
+>ID:AII17224.1 |[Aureococcus anophagefferens virus]||hypothetical protein|249|KJ645900(370920):164176-164424:1 ^^ Aureococcus anophagefferens virus isolate BtV-01, complete genome.|neighbours:ID:AII16947.1(-1),ID:AII17136.1(-1)|neighbour_genes:putative DNA mismatc..,putative nucleoside ..| | aligned:3-81 (82)
+MFDTECLVKAATIALENEKQISFDYFEASSNKECKIVKNEEDKLLYKSNEEYTSPLVAMYKFSTNIILETQNTVYIVSSNMF
+>ID:QDY52228.1 |[Mimiviridae sp. ChoanoV1]||hypothetical protein|282|MK250089(82017):23759-24040:-1 ^^ Mimiviridae sp. ChoanoV1 genomic sequence.|neighbours:ID:QDY52227.1(-1),ID:QDY52229.1(-1)|neighbour_genes:hypothetical protein,protein kinase domai..| | aligned:1-88 (93)
+MASAKPKLSIPNADTLNQACKLSIKLQKPMCFYFYVDSLKGDICIASNDDDKIIYKSNDEHTSPIQNTYKVNNEYLVVTENTIYVISASTKIQ
+>ID:ALH22961.1 |[Chrysochromulina ericina virus]||hypothetical protein|300|KT820662(473558):55200-55499:-1 ^^ Chrysochromulina ericina virus isolate CeV-01B, complete genome.|neighbours:ID:ALH22960.1(1),ID:ALH22962.1(1)|neighbour_genes:ubiquitin conjugatin..,hypothetical protein| | aligned:1-99 (99)
+MAESEPSIKLPPPELWRHLAKLAIVDDKPIMLDYWTDSLKKDVLIGVKKEQDEKLLVKNAEEYTSPISKIYNVAGCYIVCTENSIYLVSADIPTKHINS
+>ID:ADX05999.1 |[Organic Lake phycodnavirus 1]||hypothetical protein|288|HQ704802(344723):227222-227509:1 ^^ Organic Lake phycodnavirus 1 genomic sequence.|neighbours:ID:ADX06000.1(1),ID:ADX05998.1(-1)|neighbour_genes:hypothetical protein,putative PIF1 DNA he..| | aligned:1-95 (95)
+MSDTMPIPSQKVLINACKLACKEDKPIMLDYWMDSHSSNVLIGVRENDEKILVRSEEEYTSPISKIFKVAEEYIIMTENSIYLVSSKIPSRKINT
+>ID:ADX06412.1 |[Organic Lake phycodnavirus 2]||hypothetical protein|285|HQ704803(282077):263380-263664:1 ^^ Organic Lake phycodnavirus 2 genomic sequence.|neighbours:ID:ADX06413.1(1),ID:ADX06411.1(-1)|neighbour_genes:hypothetical protein,P-loop NTPase superf..| | aligned:1-94 (94)
+MSDDIPIPSQKVLINACKMSCKEDKPIMMDYWVDSHNSKVLIGVRDNDEKMLVRSEEEYTSPIAKIFKVAEEYIVMTENSIYLVSSKIPTRKIN
+>ID:AGM15350.1 |[Phaeocystis globosa virus]|16T|hypothetical protein|294|KC662249(459984):33224-33517:-1 ^^ Phaeocystis globosa virus strain 16T, complete genome.|neighbours:ID:AGM15349.1(1),ID:AGM15351.1(1)|neighbour_genes:hypothetical protein,tail fiber protein| | aligned:2-97 (97)
+MSAEEEYPLPTTAVWKHVCKQSITYDKPIMLDYWVASLNKKVFLGIRDSGEKLLVKSAEEYTSPITNMAKLEDVYIICTENSIYIVSAHIDKRKISS
+>ID:QFG74988.1 |[Megaviridae environmental sample]||hypothetical protein|306|MN448295(124072):122605-122910:1 ^^ Megaviridae environmental sample isolate oPacV-421 clone oPacV-421_c1 genomic sequence.|neighbours:ID:QFG74987.1(-1),ID:QFG74989.1(-1)|neighbour_genes:hypothetical protein,hypothetical protein| | aligned:6-101 (101)
+MESEISEEPSVSRLPGSGTFQHAAKLAISEDKPILLDYWKLSLDKESFIGVKEDDEKLLVKSAEEYTSPIAKIFECDSEYLVVTENSIYIVDNSLPTKRIS

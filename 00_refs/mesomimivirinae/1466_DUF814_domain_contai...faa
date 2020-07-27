@@ -1,0 +1,4 @@
+>ID:ALH23135.1 |[Chrysochromulina ericina virus]||DUF814 domain contai..|354|KT820662(473558):212634-212987:-1 ^^ Chrysochromulina ericina virus isolate CeV-01B, complete genome.|neighbours:ID:ALH23134.1(1),ID:ALH23136.1(1)|neighbour_genes:hypothetical protein,hypothetical protein| | aligned:1-117 (117)
+MKCVEYNNVKFYIGQNAEENFDLLDNSKMINNEYIWFHLNSFASPYVIMYSTLQNIKNISENNIDDFLIFGANLCKENSKYKYLKDLKIIYTLLKRLKKTDSIGEVLISGKKKYIKI
+>ID:AGM15743.1 |[Phaeocystis globosa virus]|16T|hypothetical protein|378|KC662249(459984):457140-457517:1 ^^ Phaeocystis globosa virus strain 16T, complete genome.|neighbours:ID:AGM15742.1(-1),ID:AGM15744.1(-1)|neighbour_genes:HNH endonuclease,hypothetical protein| | aligned:1-115 (125)
+MKEHEFNNVKFIIGENAEDNWNLFDMSKEINEDYVWFHLNSFASPYVIMYSTILDIKAIGNIETYINFGAALCLEKSKYSKFKDTKIIYSPLKKLKKGGKVGEIIVSGKRKLVKVSCPDTIVSTY

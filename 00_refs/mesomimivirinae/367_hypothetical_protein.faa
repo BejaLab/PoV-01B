@@ -1,0 +1,4 @@
+>ID:AII16975.1 |[Aureococcus anophagefferens virus]||hypothetical protein|201|KJ645900(370920):360343-360543:1 ^^ Aureococcus anophagefferens virus isolate BtV-01, complete genome.|neighbours:ID:AII17164.1(-1),ID:AII17203.1(1)|neighbour_genes:putative zf-DHHC dom..,putative family 25 g..| | aligned:3-64 (66)
+MFRTISLILLMIGIIFITIGYTESSFKCEPTIEYRYIPRKIYEEQIYDQNVSKNFNQMFNDDNKRY
+>ID:QDY52215.1 |[Mimiviridae sp. ChoanoV1]||hypothetical protein|216|MK250089(82017):9882-10097:-1 ^^ Mimiviridae sp. ChoanoV1 genomic sequence.|neighbours:ID:QDY52214.1(1),ID:QDY52216.1(-1)|neighbour_genes:hypothetical protein,protein kinase domai..| | aligned:2-67 (71)
+MKGLSLFVLILGIIFITIGYMENKMELKNTEKEIEYRIVPSNLYEEQIESKDLVSVYSNLFVNDDPKNIRF

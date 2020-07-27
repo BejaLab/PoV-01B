@@ -1,0 +1,4 @@
+>ID:ADX06348.1 |[Organic Lake phycodnavirus 2]||DUF1599 domain-conta..|255|HQ704803(282077):155220-155474:-1 ^^ Organic Lake phycodnavirus 2 genomic sequence.|neighbours:ID:ADX06349.1(1),ID:ADX06347.1(1)|neighbour_genes:putative ribonucleas..,hypothetical protein| | aligned:2-84 (84)
+MDRVEQMVRIQKEALELFTKKNIDYGDAFSKYGIIGVLMRIEDKLQRSMSITKNGVNLINDEGIRDTLIDLHNYSAMALMLLDE
+>ID:AGM15710.1 |[Phaeocystis globosa virus]|16T|DUF1599 domain-conta..|300|KC662249(459984):428002-428301:1 ^^ Phaeocystis globosa virus strain 16T, complete genome.|neighbours:ID:AGM15709.1(1),ID:AGM15711.1(-1)|neighbour_genes:hypothetical protein,ELP3-like acetyltran..| | aligned:6-88 (99)
+MEFTTDRVAQMKAVQDEGLELFKKKNQDYGDAFATYGVVGVLVRMGDKISRLQSVTAKQVSLVDTESLRDTLIDLHNYSAMAIMLLDEDKDKLSNITSK

@@ -1,0 +1,4 @@
+>ID:QDY52408.1 |[Mimiviridae sp. ChoanoV1]||helix-turn-helix|393|MK250092(47239):7736-8128:1 ^^ Mimiviridae sp. ChoanoV1 genomic sequence.|neighbours:ID:QDY52407.1(-1),ID:QDY52409.1(-1)|neighbour_genes:polynucleotide kinas..,hypothetical protein| | aligned:1-120 (130)
+MSNITEQDWEPLILRKKKIKTTQDKQNALRNGNTEVKEKNTNKGEADLMRKLENDMENLKVETVNKSISKTIMETRQKLKLKQKDLATKINVQPQVIQQLENGKAKPDINILKKLERVLKCKLTGKGFTK
+>ID:AUF82263.1 |[Tetraselmis virus 1]||helix-turn-helix dom..|327|KY322437(668031):148526-148852:-1 ^^ Tetraselmis virus 1, complete genome.|neighbours:ID:AUF82262.1(-1),ID:AUF82264.1(1)|neighbour_genes:hypothetical protein,hypothetical protein| | aligned:1-107 (108)
+MHPYHHQDWNTVVLNKPKKNATAAPPALDGQQKKTIMLDKADGETFSHTKINSDTRKELVTLRTSKKLTQKELARRLNLQPKIIEEYENGKAIIDKQVLNKIFRFLKK

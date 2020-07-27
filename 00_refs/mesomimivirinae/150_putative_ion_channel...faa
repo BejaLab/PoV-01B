@@ -1,0 +1,6 @@
+>ID:AII17214.1 |[Aureococcus anophagefferens virus]||putative ion channel..|471|KJ645900(370920):149853-150323:-1 ^^ Aureococcus anophagefferens virus isolate BtV-01, complete genome.|neighbours:ID:AII17150.1(1),ID:AII16967.1(1)|neighbour_genes:putative C3H2C3-type..,hypothetical protein| | aligned:8-156 (156)
+MKLLFGYNRFHLLIYQIIFFSILYMFLGSSHFSGINTLEDILKNEIVSKQVLDPIIEEKFTNASDPSKFISKDDIEVDKKETEEIQEKAKEIKKEVKKELNILTDKDSFFDRFFLRFYFSFVTSTTIGYGDTTPSSISTRTLAMIQACSTFYILMA
+>ID:ADX06199.1 |[Organic Lake phycodnavirus 2]||cyclic nucleotide-bi..|423|HQ704803(282077):11296-11718:-1 ^^ Organic Lake phycodnavirus 2 genomic sequence.|neighbours:ID:ADX06198.1(1),ID:ADX06200.1(-1)|neighbour_genes:hypothetical protein,hypothetical protein| | aligned:3-140 (140)
+MKNKFIYLIVSTIFFSLVYSFIRPRNFHGFNKIQDKIQDVLVSEETDIIEPFYAPYLDKKEKEKEKEKEKDEVKKEVKENVLEEKEKIYNPSWWQHYLDSLYFSVITSCLLGYGDIYPITNMSKIIVSLQGFITLFLILS
+>ID:ADX06223.1 |[Organic Lake phycodnavirus 2]||hypothetical protein|318|HQ704803(282077):32585-32902:-1 ^^ Organic Lake phycodnavirus 2 genomic sequence.|neighbours:ID:ADX06222.1(1),ID:ADX06224.1(1)|neighbour_genes:cold-shock DNA-bindi..,hypothetical protein| | aligned:1-104 (105)
+MNPINFYGLNKIQDSIKDDLIDDQAKEPFYTPYNKEKVKEDVKNIVRNEEDKIYKPNYFQRYLDSLYFSIITSCLLGYGDIYPITNLSKILVSIQGLITLSLILY

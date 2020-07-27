@@ -1,0 +1,10 @@
+>ID:ALH23138.1 |[Chrysochromulina ericina virus]||hypothetical protein|396|KT820662(473558):213838-214233:1 ^^ Chrysochromulina ericina virus isolate CeV-01B, complete genome.|neighbours:ID:ALH23137.1(1),ID:ALH23139.1(-1)|neighbour_genes:hypothetical protein,putative AHH-like nu..| | aligned:1-131 (131)
+MGNKISTMSTISFNLYNFEKVQNAIKNNDIIINTLSDNEQDCLISGTTNIKDEVTILNECLKNKKDALIIVYGKNNNDNTVIIKYNQLIELGFNNVAIYLGGIFEWLLLQDIYGYDNFPTTIKELDILKYK
+>ID:ADX05949.1 |[Organic Lake phycodnavirus 1]||hypothetical protein|369|HQ704802(344723):146302-146670:-1 ^^ Organic Lake phycodnavirus 1 genomic sequence.|neighbours:ID:ADX05948.1(-1),ID:ADX05950.1(-1)|neighbour_genes:hypothetical protein,hypothetical protein| | aligned:1-122 (122)
+MGNIYSSFPMVHFEDIFKHDVIINTLPEHEQFCLIDKTLNINEEINTMNQYLKTNKKIWVVVYGKNYRDKTIIKKFNQLKKLGFTNVSIYFGGMFEWLMLQEIYGSDNFKTQGNTLDILQFK
+>ID:ADX06338.1 |[Organic Lake phycodnavirus 2]||hypothetical protein|372|HQ704803(282077):163197-163568:-1 ^^ Organic Lake phycodnavirus 2 genomic sequence.|neighbours:ID:ADX06339.1(-1),ID:ADX06337.1(-1)|neighbour_genes:hypothetical protein,hypothetical protein| | aligned:1-123 (123)
+MGNIYSSFPMIHFEDIYKENSVLINTLQEHEQGCLIHNTIPANQEIHIMNTYLKTNKKVRIIIYGKNYGDKSIIKKFNQLKKLGFSNVFIYFGGMFEWIMLQEIYGNDNFKTDGTTLDILQFK
+>ID:AGM15453.1 |[Phaeocystis globosa virus]|16T|hypothetical protein|405|KC662249(459984):168249-168653:1 ^^ Phaeocystis globosa virus strain 16T, complete genome.|neighbours:ID:AGM15452.1(1),ID:AGM15454.1(1)|neighbour_genes:hypothetical protein,deoxynucleoside kina..| | aligned:1-129 (134)
+MGANQSIFKLNFEGMQNIVRNDTNSKFIIISTLGSDNQSCLIKNTLSPEKEIEKISDYLKTDKTINIVIYGENSVDNKTLEKYEQLTKLGFSNVYLYIGGLFEWLLLQDYYCADEFPTTSENIDLLKYKGKNII
+>ID:QFG75168.1 |[Megaviridae environmental sample]||hypothetical protein|378|MN448300(8451):4121-4498:1 ^^ Megaviridae environmental sample isolate oPacV-421 clone oPacV-421_c13 genomic sequence.|neighbours:ID:QFG75167.1(-1),ID:QFG75169.1(1)|neighbour_genes:RNA polymerases N / ..,hypothetical protein| | aligned:1-125 (125)
+MGNSLSIKKINFEELQASVNDRNIIISTLPDDEQDCLIKHTISIQNESQKINDLLKTNKQGLIVIYGKNSHDDSVITKSKQLIQLGFTNINLYLGGLFEWLLLQDIYGEELFPTTSKELDLLKFK

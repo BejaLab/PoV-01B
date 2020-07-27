@@ -1,0 +1,6 @@
+>ID:ADX06004.1 |[Organic Lake phycodnavirus 1]||hypothetical protein|195|HQ704802(344723):224046-224240:-1 ^^ Organic Lake phycodnavirus 1 genomic sequence.|neighbours:ID:ADX06005.1(1),ID:ADX06003.1(1)|neighbour_genes:hypothetical protein,hypothetical protein| | aligned:3-64 (64)
+MEEKGTTMILHALILGVLLYLFMFFILGQKQAVAENRSILFASFILVYMILFGHGLPTKLNKNI
+>ID:ADX06407.1 |[Organic Lake phycodnavirus 2]||hypothetical protein|204|HQ704803(282077):267169-267372:-1 ^^ Organic Lake phycodnavirus 2 genomic sequence.|neighbours:ID:ADX06408.1(-1),ID:ADX06406.1(1)|neighbour_genes:hypothetical protein,hypothetical protein| | aligned:1-64 (67)
+MERPLMMVIHSVVIALVLYVFMIFVLKQTSMVAETRSIFLGGLVLLYMIMFGHSLPGKINKLLYEQK
+>ID:AGM15676.1 |[Phaeocystis globosa virus]|16T|hypothetical protein|195|KC662249(459984):403058-403252:1 ^^ Phaeocystis globosa virus strain 16T, complete genome.|neighbours:ID:AGM15675.1(1),ID:AGM15677.1(1)|neighbour_genes:hypothetical protein,hypothetical protein| | aligned:1-64 (64)
+MESARMMIVHSAVIGSILYLLMIFVLGQKQSVAENRSVLLAAAILIYMIVFGHGLPTKINKDLF

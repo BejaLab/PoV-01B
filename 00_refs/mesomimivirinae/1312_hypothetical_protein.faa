@@ -1,0 +1,4 @@
+>ID:ALH22981.1 |[Chrysochromulina ericina virus]||hypothetical protein|330|KT820662(473558):72700-73029:-1 ^^ Chrysochromulina ericina virus isolate CeV-01B, complete genome.|neighbours:ID:ALH22980.1(-1),ID:ALH22982.1(1)|neighbour_genes:hypothetical protein,hypothetical protein| | aligned:1-91 (109)
+MRNHRKSADGLYHIGSQTFDKLEGSRAEVGHGTAYKTSGGLLAKDLVYVRNRWKSKKKHETAKREQRLQKHGYFAQKGKFGYIKKTPKKSRSPSRVRRARTIGGTRKKR
+>ID:AGM15407.1 |[Phaeocystis globosa virus]|16T|hypothetical protein|288|KC662249(459984):115343-115630:-1 ^^ Phaeocystis globosa virus strain 16T, complete genome.|neighbours:ID:AGM15406.1(-1),ID:AGM15408.1(1)|neighbour_genes:exodeoxyribonuclease..,phage tail collar do..| | aligned:1-92 (95)
+MKKHMKSDDGLYHINGKTYELLRGSRAQVWHGTAHSTEGGLKKDNLVFNKHGRVVSKKKHNTAKKEKRLQKHGYFTKKGKFGFVKSDPSKTKKRR

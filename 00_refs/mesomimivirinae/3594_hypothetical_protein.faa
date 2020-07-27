@@ -1,0 +1,6 @@
+>ID:ALH23027.1 |[Chrysochromulina ericina virus]||hypothetical protein|231|KT820662(473558):117684-117914:1 ^^ Chrysochromulina ericina virus isolate CeV-01B, complete genome.|neighbours:ID:ALH23026.1(1),ID:ALH23028.1(1)|neighbour_genes:hypothetical protein,hypothetical protein| | aligned:1-76 (76)
+MDNIYVIALTISVVYIISKFFEIRFILKENVNLKQLTIDTILVYFSVILGTFIIEQFLDKTKNLTQAPVFIDAPKF
+>ID:AGM15371.1 |[Phaeocystis globosa virus]|16T|hypothetical protein|237|KC662249(459984):84368-84604:1 ^^ Phaeocystis globosa virus strain 16T, complete genome.|neighbours:ID:AGM15370.1(1),ID:AGM15372.1(-1)|neighbour_genes:hypothetical protein,HNH endonuclease| | aligned:1-78 (78)
+MNNLLTSSVISVIYFLFKFIEMRFVLKENKPLKELTKDTFLVFSAVSVGLIVLEQFNLNEIVGNFKTVPTVFVSKPDF
+>ID:BAT21955.1 |[Yellowstone lake mimivirus]||hypothetical protein|222|LC015646(73689):19180-19401:-1 ^^ Yellowstone lake mimivirus DNA, complete genome, isolate: 1.|neighbours:ID:BAT21954.1(-1),ID:BAT21956.1(1)|neighbour_genes:putative site-specif..,hypothetical protein| | aligned:1-73 (73)
+MFAIAGIISFIFLIAKFIEMRFIEKENKPLKIMIRDALLVYCCVVVGLFLYEQVSPANIEIKSPNVFTDNPGF

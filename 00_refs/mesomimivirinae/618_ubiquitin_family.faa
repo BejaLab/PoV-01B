@@ -1,0 +1,8 @@
+>ID:QDY51760.1 |[Mimiviridae sp. ChoanoV1]||ubiquitin family|228|MK250085(334414):165012-165239:-1 ^^ Mimiviridae sp. ChoanoV1 genomic sequence.|neighbours:ID:QDY51759.1(-1),ID:QDY51761.1(-1)|neighbour_genes:hypothetical protein,hypothetical protein| | aligned:1-75 (75)
+MQIFVKTLTGKTITLEVEPSDSIENVKAKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRG
+>ID:ALH23062.1 |[Chrysochromulina ericina virus]||Ubiquitin|234|KT820662(473558):140504-140737:-1 ^^ Chrysochromulina ericina virus isolate CeV-01B, complete genome.|neighbours:ID:ALH23061.1(-1),ID:ALH23063.1(1)|neighbour_genes:Zinc finger, C3HC4 t..,hypothetical protein| | aligned:1-76 (77)
+MQIFVKTLTGKTVTLEVEPSDSIDNVKAKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGM
+>ID:AUF82381.1 |[Tetraselmis virus 1]||ubiquitin family pro..|234|KY322437(668031):266382-266615:1 ^^ Tetraselmis virus 1, complete genome.|neighbours:ID:AUF82380.1(1),ID:AUF82382.1(-1)|neighbour_genes:hypothetical protein,putative N-6 adenine..| | aligned:1-76 (77)
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLADYNIQKESTLHLVLRLRGGQ
+>ID:QFG75098.1 |[Megaviridae environmental sample]||ubiquitin family pro..|303|MN448299(67423):4319-4621:-1 ^^ Megaviridae environmental sample isolate oPacV-421 clone oPacV-421_c10 genomic sequence.|neighbours:ID:QFG75097.1(-1),ID:QFG75099.1(1)|neighbour_genes:hypothetical protein,hypothetical protein| | aligned:1-76 (100)
+MQIFVKTLTGKTITLDVEPSDTIDNVKQKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGNQPLHWLHPDVIRTRFTQKLRSKL

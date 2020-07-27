@@ -1,0 +1,4 @@
+>ID:ADX05833.1 |[Organic Lake phycodnavirus 1]||hypothetical protein|414|HQ704802(344723):43421-43834:-1 ^^ Organic Lake phycodnavirus 1 genomic sequence.|neighbours:ID:ADX05832.1(-1),ID:ADX05834.1(-1)|neighbour_genes:hypothetical protein,hypothetical protein| | aligned:1-126 (137)
+METHTSNIADLPIDHIPQNTELPEQAMNSSSSYTLDKEIKELPQQQRVSFHPNVDVTPNERQNNHIYKSVIIATLMFILFNEPFIRNYIMNILVVIFGSNLKNTLTGTTSKMGNIFYGIFYGIFIFIIITNSPDLVI
+>ID:ADX06296.1 |[Organic Lake phycodnavirus 2]||hypothetical protein|402|HQ704803(282077):100814-101215:1 ^^ Organic Lake phycodnavirus 2 genomic sequence.|neighbours:ID:ADX06295.1(1),ID:ADX06297.1(-1)|neighbour_genes:hypothetical protein,deoxycytidylate deam..| | aligned:1-110 (133)
+MDTHTTNIADLPIDHIPQNTEIPENIPPQINRMDQEVYESPSKVTFHPNVETRIPIDSSMKESHKMILLASLLFILLNEPLFRNYIMNILVVIFGNSLKNETGTTSKMGNVSYGIFFGLVLYGVSLVIDIPSL

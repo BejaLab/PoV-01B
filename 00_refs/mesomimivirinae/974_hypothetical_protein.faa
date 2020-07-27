@@ -1,0 +1,12 @@
+>ID:QDY52065.1 |[Mimiviridae sp. ChoanoV1]||hypothetical protein|384|MK250087(86536):34453-34836:1 ^^ Mimiviridae sp. ChoanoV1 genomic sequence.|neighbours:ID:QDY52064.1(-1),ID:QDY52066.1(1)|neighbour_genes:hypothetical protein,hypothetical protein| | aligned:7-115 (127)
+MDNQFFKQKLKDSVKEYLNIDNEIATLQSAIKERKKKKDELSGFILGAMKNNEIQQMNINNEKLVYSVSQTKSPLSKTYLNNVLTDYFNNNDKALDVINHILTNRTKVEKVKLKRLSEKKKKINLTE
+>ID:ALH22943.1 |[Chrysochromulina ericina virus]||hypothetical protein|354|KT820662(473558):38849-39202:-1 ^^ Chrysochromulina ericina virus isolate CeV-01B, complete genome.|neighbours:ID:ALH22942.1(-1),ID:ALH22944.1(-1)|neighbour_genes:hypothetical protein,SAP domain containin..| | aligned:1-113 (117)
+MTSKEDLVNIIKEWILIDDKVKELQNGMKDLKTKKKTLTTSLLSIMKENEIDCFDINSGKIVYCKNKTKAALNKKTLLETLEKYFDGREDIDVIAIRDFVLDNRQIKLQENIKRKIV
+>ID:ADX06140.1 |[Organic Lake phycodnavirus 1]||hypothetical protein|348|HQ704802(344723):299373-299720:1 ^^ Organic Lake phycodnavirus 1 genomic sequence.|neighbours:ID:ADX06134.1(1),ID:ADX06136.1(1)|neighbour_genes:hypothetical protein,hypothetical protein| | aligned:1-115 (115)
+MENSLIPTIKTWMELEKEINGLQKKMKELKLSKKKVNEELSEIMKKNELDCIDVTSGQIRYTKNKVKKGINQAYLMDVLEKYHNNNKDEAKKICDYIQENRQVEEKEKIHFKKIN
+>ID:ADX06135.1 |[Organic Lake phycodnavirus 1]||hypothetical protein|348|HQ704802(344723):303955-304302:1 ^^ Organic Lake phycodnavirus 1 genomic sequence.|neighbours:ID:ADX06139.1(-1),ID:ADX06141.1(1)|neighbour_genes:putative C-5 cytosin..,hypothetical protein| | aligned:1-115 (115)
+MENSLIPTIKSWMELEKEINGLQKKMKELKLSKKKVNEELSEIMKKNELDCIDVTSGQIRYTKNKVKKGINQAYLMDVLEKYHNNNKDEAKKICDYIQENRKVEEKEKIHFKKIN
+>ID:AGM15334.1 |[Phaeocystis globosa virus]|16T|hypothetical protein|360|KC662249(459984):19004-19363:-1 ^^ Phaeocystis globosa virus strain 16T, complete genome.|neighbours:ID:AGM15333.1(-1),ID:AGM15335.1(-1)|neighbour_genes:hypothetical protein,hypothetical protein| | aligned:4-117 (119)
+MADSKEVLVNNIKEWIQITNKMNELQKTVKDLRTKKKNLSASLINIMESNDIDGIDINNGKLVYKTTKVKAPINKDYLLTMLDSYFKKNPEIDIQDVGNYILENRPIKETPSLSIKQNK
+>ID:QFG74955.1 |[Megaviridae environmental sample]||hypothetical protein|345|MN448295(124072):87120-87464:-1 ^^ Megaviridae environmental sample isolate oPacV-421 clone oPacV-421_c1 genomic sequence.|neighbours:ID:QFG74954.1(-1),ID:QFG74956.1(-1)|neighbour_genes:hypothetical protein,hypothetical protein| | aligned:1-114 (114)
+MQTKEELIQHVKEWITIENQITNLQKEMKEKRKYKKELSAQLINVMKQHNIDCLDISNGKIVHTKRKQKQSISKKFLLETLEKYYKDNENAQELTKFILDSRQEKEIDNIKIKK

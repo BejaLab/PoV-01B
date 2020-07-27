@@ -1,0 +1,12 @@
+>ID:QDY51962.1 |[Mimiviridae sp. ChoanoV1]||hypothetical protein|213|MK250086(110012):32139-32351:-1 ^^ Mimiviridae sp. ChoanoV1 genomic sequence.|neighbours:ID:QDY51961.1(-1),ID:QDY51963.1(-1)|neighbour_genes:hypothetical protein,hypothetical protein| | aligned:2-70 (70)
+MLKNLAKDDLGKTIISVIVGLGLASLFRKVCNDRSCIIIRGPPIEDVTNKIYSFDNKCYKYEVENTSCPK
+>ID:ALH23005.1 |[Chrysochromulina ericina virus]||hypothetical protein|261|KT820662(473558):94522-94782:-1 ^^ Chrysochromulina ericina virus isolate CeV-01B, complete genome.|neighbours:ID:ALH23004.1(-1),ID:ALH23006.1(-1)|neighbour_genes:hypothetical protein,hypothetical protein| | aligned:1-83 (86)
+MKTPSLKSLINSSKGKIILSIILGFGIATLFRESCKDRNCLVFHAPSIKKIKNKVFSYNDQCYVYTEKHGTCNPDKKVLAISNENA
+>ID:AGM15480.1 |[Phaeocystis globosa virus]|16T|hypothetical protein|270|KC662249(459984):189019-189288:-1 ^^ Phaeocystis globosa virus strain 16T, complete genome.|neighbours:ID:AGM15479.1(-1),ID:AGM15481.1(-1)|neighbour_genes:hypothetical protein,hypothetical protein| | aligned:7-89 (89)
+MIGKGLSTAIKNIIYTERGRFILSIILGLGLATFFRKFCEGKNCYNFIGPKQTEVKDQIFSFDSTNSECYIMREKAVKCGNKSKAVEFA
+>ID:AUF82361.1 |[Tetraselmis virus 1]||hypothetical protein|267|KY322437(668031):245120-245386:-1 ^^ Tetraselmis virus 1, complete genome.|neighbours:ID:AUF82360.1(1),ID:AUF82362.1(1)|neighbour_genes:putative von Willebr..,hypothetical protein| | aligned:3-76 (88)
+MGALEDLLKNDTGSMMISALLGFGLAAAMFKVCQGRDCIVTKGPNVKYVTSNIWKDGKNCYKYYVQSVDCPEKSNSDVESGRLAVPVS
+>ID:BAT21991.1 |[Yellowstone lake mimivirus]||hypothetical protein|249|LC015646(73689):46747-46995:1 ^^ Yellowstone lake mimivirus DNA, complete genome, isolate: 1.|neighbours:ID:BAT21990.1(1),ID:BAT21992.1(1)|neighbour_genes:hypothetical protein,hypothetical protein| | aligned:1-82 (82)
+MNQVKLEKYIHTRTGRIILSIVLGLGVASLFRSVCKGRNCILFHAAPIEEIHDKIHKYDNKCYKYVSNVTKCDKDKKIVDFA
+>ID:QFG75141.1 |[Megaviridae environmental sample]||hypothetical protein|261|MN448299(67423):42329-42589:-1 ^^ Megaviridae environmental sample isolate oPacV-421 clone oPacV-421_c10 genomic sequence.|neighbours:ID:QFG75140.1(-1),ID:QFG75142.1(-1)|neighbour_genes:hypothetical protein,hypothetical protein| | aligned:1-80 (86)
+MNLKRLLYGKYSKVVISIILGFGLATIFRRVCKNNKCYEFVSPSIQKVKENVWKYDNDCYKFIPNLVKCNKQKKILKKDNFSNNQF

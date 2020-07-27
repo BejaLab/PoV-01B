@@ -1,0 +1,16 @@
+>ID:AII17126.1 |[Aureococcus anophagefferens virus]||putative RNA polymer..|234|KJ645900(370920):253423-253656:1 ^^ Aureococcus anophagefferens virus isolate BtV-01, complete genome.|neighbours:ID:AII17019.1(-1),ID:AII17244.1(1)|neighbour_genes:hypothetical protein,hypothetical protein| | aligned:1-77 (77)
+MLIPVRCFTCGKSISNYWIEYTKLLKKYEKDKTDIISFENIADSSETACFKALKDLKITRMCCRRHFITNVDMLDSI
+>ID:QDY51869.1 |[Mimiviridae sp. ChoanoV1]||hypothetical protein|228|MK250085(334414):262018-262245:-1 ^^ Mimiviridae sp. ChoanoV1 genomic sequence.|neighbours:ID:QDY51868.1(-1),ID:QDY51870.1(1)|neighbour_genes:hypothetical protein,hypothetical protein| | aligned:1-75 (75)
+MIFPIRCMTCGKVIGSFWNTYNEEIKNEKAPEETIDINAKKIEKTHRGKVLDKLGMNRYCCRRHFLTHVDLIETI
+>ID:ALH23185.1 |[Chrysochromulina ericina virus]||DNA-directed RNA pol..|234|KT820662(473558):255141-255374:-1 ^^ Chrysochromulina ericina virus isolate CeV-01B, complete genome.|neighbours:ID:ALH23184.1(-1),ID:ALH23186.1(-1)|neighbour_genes:hypothetical protein,hypothetical protein| | aligned:1-77 (77)
+MIIPVKCFTCGEVLADKYRYYQEEVRKIKADNDMDVNKVIYLTEDNIKKTPEGEVLDKLKLNKYCCRRHMLTHVDLD
+>ID:ADX06023.1 |[Organic Lake phycodnavirus 1]||DNA-directed RNA pol..|225|HQ704802(344723):209949-210173:1 ^^ Organic Lake phycodnavirus 1 genomic sequence.|neighbours:ID:ADX06024.1(1),ID:ADX06022.1(1)|neighbour_genes:putative DNA mismatc..,hypothetical protein| | aligned:1-74 (74)
+MIIPVKCFTCGKVIANKYQKYLDKVGELKKDKSQEINYLDTSNIEKTPEGKVLDELDLVDICCRRHMLTHVDIL
+>ID:ADX06432.1 |[Organic Lake phycodnavirus 2]||putative DNA-directe..|222|HQ704803(282077):246732-246953:1 ^^ Organic Lake phycodnavirus 2 genomic sequence.|neighbours:ID:ADX06433.1(1),ID:ADX06431.1(1)|neighbour_genes:hypothetical protein,putative DNA-directe..| | aligned:1-73 (73)
+MLIPVKCFTCGKVIANKYPVYLALVAEQKKDKDSIQYLDTEKIEKTIEGKVLDELGLVDVCCRRHILTHVDIL
+>ID:AGM15522.1 |[Phaeocystis globosa virus]|16T|DNA-directed RNA pol..|234|KC662249(459984):237407-237640:-1 ^^ Phaeocystis globosa virus strain 16T, complete genome.|neighbours:ID:AGM15521.1(-1),ID:AGM15523.1(-1)|neighbour_genes:hypothetical protein,hypothetical protein| | aligned:1-77 (77)
+MLIPVKCFSCGKVLANKYDFYLREVQKQKLNNNVDLDKVTYLTKDFMEKTPEGEAMDKLGLIKYCCRRHMLTHVDIE
+>ID:AUF82248.1 |[Tetraselmis virus 1]||DNA-directed RNA pol..|204|KY322437(668031):136719-136922:1 ^^ Tetraselmis virus 1, complete genome.|neighbours:ID:AUF82247.1(-1),ID:AUF82249.1(1)|neighbour_genes:hypothetical protein,hypothetical protein| | aligned:1-67 (67)
+MIIPIRCMTCGKMIADKWRVYEEKTAEIEDKKKEDMVSKEKAMDDLGLVRYCCRRHFLGQVDLIEKI
+>ID:QFG75167.1 |[Megaviridae environmental sample]||RNA polymerases N / ..|234|MN448300(8451):3812-4045:-1 ^^ Megaviridae environmental sample isolate oPacV-421 clone oPacV-421_c13 genomic sequence.|neighbours:ID:QFG75166.1(-1),ID:QFG75168.1(1)|neighbour_genes:hypothetical protein,hypothetical protein| | aligned:1-77 (77)
+MIIPVKCFTCGTVLANKYRYYQIKVKELKLSKKMNDVDFMYLTEENTQKAPEGQVLDDLGLHNMCCRRHMLTHIDIE

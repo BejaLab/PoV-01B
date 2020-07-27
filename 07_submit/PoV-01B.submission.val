@@ -1,0 +1,4 @@
+WARNING: valid [SEQ_FEAT.PartialProblem] PartialLocation: 5' partial is not at start AND is not at consensus splice site FEATURE: CDS: hypothetical protein [lcl|POV01B_1:c>186216-185464] [lcl|POV01B_1: raw, dna len= 186217] -> [lcl|HWQ62_00168]
+WARNING: valid [SEQ_FEAT.PartialProblem] PartialLocation: 3' partial is not at stop AND is not at consensus splice site FEATURE: CDS: hypothetical protein [lcl|POV01B_2:c311-<3] [lcl|POV01B_2: raw, dna len= 72815] -> [lcl|HWQ62_00169]
+WARNING: valid [SEQ_FEAT.PartialProblem] PartialLocation: 3' partial is not at stop AND is not at consensus splice site FEATURE: CDS: hypothetical protein [lcl|POV01B_5:c2810-<3] [lcl|POV01B_5: raw, dna len= 48422] -> [lcl|HWQ62_00335]
+WARNING: valid [SEQ_FEAT.PartialProblem] PartialLocation: 3' partial is not at stop AND is not at consensus splice site FEATURE: CDS: hypothetical protein [lcl|POV01B_10:c244-<2] [lcl|POV01B_10: raw, dna len= 17613] -> [lcl|HWQ62_00492]

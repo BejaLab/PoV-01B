@@ -1,0 +1,16 @@
+>ID:QDY51964.1 |[Mimiviridae sp. ChoanoV1]||hypothetical protein|252|MK250086(110012):32560-32811:-1 ^^ Mimiviridae sp. ChoanoV1 genomic sequence.|neighbours:ID:QDY51963.1(-1),ID:QDY51965.1(-1)|neighbour_genes:hypothetical protein,hypothetical protein| | aligned:1-77 (83)
+MFFSKYILPLPFFISLFIGFLMVYITAPLPEIICKHPTPDNIEKNIYNLNDDTCYKYKAQEVSCPQNKDKITKTPVDYECKKD
+>ID:ALH23006.1 |[Chrysochromulina ericina virus]||hypothetical protein|240|KT820662(473558):94808-95047:-1 ^^ Chrysochromulina ericina virus isolate CeV-01B, complete genome.|neighbours:ID:ALH23005.1(-1),ID:ALH23007.1(-1)|neighbour_genes:hypothetical protein,hypothetical protein| | aligned:1-77 (79)
+MITNYIDFKILFISLAIGLFFVYINQAASTIIYVYPTPDNIKNIQYKDHIGNCFDFTAKEVNCPDDKTKIHTIPVQEGK
+>ID:ADX05836.1 |[Organic Lake phycodnavirus 1]||hypothetical protein|231|HQ704802(344723):44926-45156:-1 ^^ Organic Lake phycodnavirus 1 genomic sequence.|neighbours:ID:ADX05835.1(-1),ID:ADX05837.1(-1)|neighbour_genes:hypothetical protein,hypothetical protein| | aligned:1-76 (76)
+MIFKFLDMKLFLISLSIGLLYIYLAEEYKKVIYIYPTPENINKYQYKDKTDECFEYELQSVQCPSDGDIQSIPSQR
+>ID:ADX06292.1 |[Organic Lake phycodnavirus 2]||hypothetical protein|225|HQ704803(282077):99597-99821:1 ^^ Organic Lake phycodnavirus 2 genomic sequence.|neighbours:ID:ADX06291.1(1),ID:ADX06293.1(1)|neighbour_genes:hypothetical protein,hypothetical protein| | aligned:1-74 (74)
+MIFKYLDLKLFLISLSVGLFYIYLAEEYKKVIVIYPTPENANKYQYKDQSNECFSYELNEVKCPSNYNSIPMQR
+>ID:AGM15481.1 |[Phaeocystis globosa virus]|16T|hypothetical protein|234|KC662249(459984):189311-189544:-1 ^^ Phaeocystis globosa virus strain 16T, complete genome.|neighbours:ID:AGM15480.1(-1),ID:AGM15482.1(-1)|neighbour_genes:hypothetical protein,hypothetical protein| | aligned:5-77 (77)
+MIGNMLKMINIKVFLISLIAGLIFMYFDDSKKNISVFPTPSNIGSVEYKDKAGNCFEYTMEKVKCPDKSKIKNIPIQ
+>ID:AUF82542.1 |[Tetraselmis virus 1]||hypothetical protein|243|KY322437(668031):436793-437035:1 ^^ Tetraselmis virus 1, complete genome.|neighbours:ID:AUF82541.1(-1),ID:AUF82543.1(-1)|neighbour_genes:hypothetical protein,putative cysteine pr..| | aligned:1-80 (80)
+MLFAKLNPFVFFISLGIGLAVVYCFAPRPTKVVKFPNPINAGKIVYRNQDECFVYSPEKVECTEKAITVAEAKHSQPKDE
+>ID:BAT21990.1 |[Yellowstone lake mimivirus]||hypothetical protein|234|LC015646(73689):46423-46656:1 ^^ Yellowstone lake mimivirus DNA, complete genome, isolate: 1.|neighbours:ID:BAT21989.1(1),ID:BAT21991.1(1)|neighbour_genes:hypothetical protein,hypothetical protein| | aligned:1-76 (77)
+MLTKYISVPVFLLSLVIGLFFVYILGPDIKTVVVYPTPENIDKILFKDKGDNCYSFTKTEIDCPADESLISSIPIQI
+>ID:QFG75142.1 |[Megaviridae environmental sample]||hypothetical protein|225|MN448299(67423):42607-42831:-1 ^^ Megaviridae environmental sample isolate oPacV-421 clone oPacV-421_c10 genomic sequence.|neighbours:ID:QFG75141.1(-1),ID:QFG75143.1(-1)|neighbour_genes:hypothetical protein,hypothetical protein| | aligned:1-74 (74)
+MKFFSISAFLISLSIGLFIMYIQRPETKKIYIYPTPENLTKFQWKDSVDNCYEWKEKKVNCANYSNVKNIPVQN

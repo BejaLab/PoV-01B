@@ -1,0 +1,10 @@
+>ID:ALH23021.1 |[Chrysochromulina ericina virus]||hypothetical protein|396|KT820662(473558):112519-112914:1 ^^ Chrysochromulina ericina virus isolate CeV-01B, complete genome.|neighbours:ID:ALH23020.1(1),ID:ALH23022.1(1)|neighbour_genes:hypothetical protein,hypothetical protein| | aligned:13-131 (131)
+MLCENIPGKDPRYCWERGCTSDRNSQANYCLEQKARAQLMDRRMFYYGPNGQAFNPAFPEFTRQGRMPANNFSFNAVDIESSLFNIGVCNLVEPRSATVPRFKETLPQVTFFERPNLVKQEVFLPVLDQRP
+>ID:ADX06280.1 |[Organic Lake phycodnavirus 2]||hypothetical protein|351|HQ704803(282077):88972-89322:-1 ^^ Organic Lake phycodnavirus 2 genomic sequence.|neighbours:ID:ADX06279.1(-1),ID:ADX06281.1(-1)|neighbour_genes:hypothetical protein,hypothetical protein| | aligned:1-113 (116)
+MSSTRNKNQMSDYNVKKRESERNQLYRMNETYSIHNDTRFMELGSMAKMNGEQLSKNYVDVESMLRGIRSTNLEGPSFKVEPKFVSLESKSWFEKPTTILPEQHIHSLLDRPLFLN
+>ID:AGM15497.1 |[Phaeocystis globosa virus]|16T|hypothetical protein|405|KC662249(459984):206445-206849:1 ^^ Phaeocystis globosa virus strain 16T, complete genome.|neighbours:ID:AGM15496.1(1),ID:AGM15498.1(-1)|neighbour_genes:hypothetical protein,hypothetical protein| | aligned:12-131 (134)
+MRQLKYKKYVLYIIKMASTRNRNTQLDYNIENNKNSDYLEHNLYIHSAAGRPTTECFPEVGYMPSQMAHQTLSNNGIDIESSLRGIGASNLVDAVEPVNPSIRQVEFKPWFERPHAVIMPYPLVFNERQRPTLG
+>ID:BAT21965.1 |[Yellowstone lake mimivirus]||hypothetical protein|363|LC015646(73689):27161-27523:-1 ^^ Yellowstone lake mimivirus DNA, complete genome, isolate: 1.|neighbours:ID:BAT21964.1(1),ID:BAT21966.1(-1)|neighbour_genes:putative glycosyl tr..,hypothetical protein| | aligned:1-119 (120)
+MASTRNKNTYGNYCLEQKQYSQNAQYTLYANSQYGEAYNTCLAGNGLNPGQMPWNTMSNNAADIETFLFGINSTNLINNSPPTLVPQLRQLNSANLYEKSVVFVPEPLTIEKHQRPLPIP
+>ID:QFG75124.1 |[Megaviridae environmental sample]||hypothetical protein|363|MN448299(67423):30600-30962:-1 ^^ Megaviridae environmental sample isolate oPacV-421 clone oPacV-421_c10 genomic sequence.|neighbours:ID:QFG75123.1(-1),ID:QFG75125.1(-1)|neighbour_genes:hypothetical protein,hypothetical protein| | aligned:1-119 (120)
+MSSTRNNNMRTEYTLQQKGYYNVLERNMYKHSTYGNPVNPGLPLAGSALPSHMSRCVLSKNSIDIESKLFGIGSSNLVKTPEKVAPRLNKLKDIQFFKRNDVLIPRDMYIPTNQHALPIL
