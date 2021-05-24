@@ -43,7 +43,7 @@ while (my $feature = $gmsn->next_feature()) {
 	my ($name) = split / /, $feature->seq_id;
 	$features{$name} = () if not $features{$name};
 
-	$feature->add_tag_value("inference", "ab initio prediction:" . $feature->source_tag);
+	$feature->add_tag_value("inference", "COORDINATES:profile:" . $feature->source_tag);
 	push @{$features{$name}}, $feature;
 }
 
@@ -55,9 +55,7 @@ if ($opt_m) {
 		for my $feature ($seq->get_SeqFeatures) {
 			next if $feature->primary_tag ne "CDS";
 			my $i = 0;
-			my $note = "";
-			($note) = $feature->get_tag_values("note") if $feature->has_tag("note");
-			my $add = $note ne "remove";
+			my $add = 1;
 			my @remove = ();
 			for my $feat0 (@{$features{$name}}) {
 				my $startDiff = $feature->start - $feat0->start;
@@ -66,7 +64,8 @@ if ($opt_m) {
 					#my $note = sprintf "Replaces an annotation made with %s (%s..%s)", $feat0->source_tag, $feat0->start, $feat0->end;
 					#$feature->add_tag_value("note", $note);
 					if ($feature->has_tag("note") and $feat0->start == $feature->start and $feat0->end == $feature->end) {
-						push @remove, $i if not $add;
+						my ($note) = $feature->get_tag_values("note");
+						push @remove, $i if $note eq "remove";
 					}
 					$features{$name}[$i] = $feature;
 					$add = 0;
@@ -91,29 +90,24 @@ if (defined $opt_t) {
 		next if $num !~ /^\d+$/;
 
 		my $strand = $begin > $end ? -1 : 1;
-		my $product = sprintf "tRNA-%s", $type;
-		my $note    = sprintf "tRNA-%s(%s)", $type, $codon;
+		my $gene = sprintf "tRNA-%s(%s)", $type, $codon;
+		my $product = sprintf "tRNA-%s(%s)", $type, $codon;
 
-		my $tag = { inference => "ab initio prediction:tRNAscan-SE", score => $score, note => $note, product => $product };
+		my $tag = { inference => "COORDINATES:profile:tRNAscan-SE", score => $score, gene => $gene, product => $product };
 
 		my $loc;
 		if ($intronBegin > 0) {
 			$loc = Bio::Location::Split->new();
-			my $subloc1 = Bio::Location::Simple->new(-start => $begin, -end => $intronBegin - 1, -strand => $strand);
-			my $subloc2 = Bio::Location::Simple->new(-start => $intronEnd + 1, -end => $end, -strand => $strand);
-			if ($strand > 0) {
-				$loc->add_sub_Location($subloc1);
-				$loc->add_sub_Location($subloc2);
-			} else {
-				$loc->add_sub_Location($subloc2);
-				$loc->add_sub_Location($subloc1);
-			}
+			$loc->add_sub_Location(Bio::Location::Simple->new(-start => $begin, -end => $intronBegin - 1, -strand => $strand));
+			$loc->add_sub_Location(Bio::Location::Simple->new(-start => $intronEnd + 1, -end => $end, -strand => $strand));
 		} else {
 			$loc = Bio::Location::Simple->new(-start => $begin, -end => $end, -strand => $strand);
 		}
 
+		my $feature = Bio::SeqFeature::Generic->new(-location => $loc, -strand => $strand, -primary_tag => 'tRNA', -tag => $tag);
+
 		$features{$name} = () if not $features{$name}; 
-		push @{$features{$name}}, Bio::SeqFeature::Generic->new(-location => $loc, -strand => $strand, -primary_tag => 'tRNA', -tag => $tag);
+		push @{$features{$name}}, $feature;
 	}
 	close TRNA;
 }
@@ -128,6 +122,7 @@ while (my $seq = $prokka->next_seq) {
 		next if $feature->primary_tag ne "CDS";
 		my ($translation) = $feature->get_tag_values("translation");
 		next if $translation =~ /[*]/;
+		my ($locus_tag) = $feature->get_tag_values("locus_tag"); 
 		my $add = 1;
 		my $i = 0;
 		for my $feat0 (@{$features{$name}}) {
@@ -195,21 +190,13 @@ while (my $seq = $prokka->next_seq) {
 			$feature->remove_tag("locus_tag")  if $feature->has_tag("locus_tag");
 			$feature->remove_tag("protein_id") if $feature->has_tag("protein_id");
 
-			$geneNum += 1;
-			my $locus_tag = sprintf("%s_%05d", $opt_l, $geneNum);
+			$geneNum += 10;
+			my $locus_tag = sprintf("%s_%04d", $opt_l, $geneNum);
 			$feature->add_tag_value("locus_tag", $locus_tag);
 			$feature->add_tag_value("protein_id", $locus_tag);
 			my $gene = Bio::SeqFeature::Generic->new(-location => $feature->location, -primary_tag => "gene");
 			$gene->add_tag_value("locus_tag", $locus_tag);
 			$gene->add_tag_value("protein_id", $locus_tag);
-			$seq->add_SeqFeature($gene);
-		}
-		if ($feature->primary_tag eq "tRNA") {
-			$geneNum += 1;
-			my $locus_tag = sprintf("%s_%05d", $opt_l, $geneNum);
-			my $gene = Bio::SeqFeature::Generic->new(-start => $feature->start, -end => $feature->end, -strand => $feature->strand, -primary_tag => 'gene');
-			$feature->add_tag_value("locus_tag", $locus_tag);
-			$gene->add_tag_value("locus_tag", $locus_tag);
 			$seq->add_SeqFeature($gene);
 		}
 		$seq->add_SeqFeature($feature);
